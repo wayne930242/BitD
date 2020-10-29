@@ -1,16 +1,16 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    siteUrl: 'https://wayneh.tw/blades-in-the-dark-srd',
     gaTrackingId: null,
     trailingSlash: false,
   },
   header: {
-    logo: 'https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/brand.svg',
-    logoLink: 'https://hasura.io/learn/',
+    logo: 'https://i.imgur.com/OvpWSmY.png',
+    logoLink: '/',
     title:
-      "<a href='https://hasura.io/learn/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
-    githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
+      "",
+    githubUrl: 'https://github.com/wayne930242/blades-in-the-dark-srd/',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -29,7 +29,7 @@ const config = {
 		  </li>`,
     links: [{ text: '', link: '' }],
     search: {
-      enabled: false,
+      enabled: true,
       indexName: '',
       algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
       algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
@@ -38,23 +38,32 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
-      '/codeblock',
+      '/1-basic',
+      '/2-characters',
+      '/3-crew',
+      '/4-score',
+      '/5-downtime',
     ],
     collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
+      '/1-basic',
+      '/2-characters',
+      '/3-crew',
+      '/4-score',
+      '/5-downtime',
     ],
-    links: [{ text: 'Hasura', link: 'https://hasura.io' }],
-    frontline: false,
+    links: [
+      { text: '原文', link: 'http://bladesinthedark.com' },
+    ],
+    frontline: true,
     ignoreIndex: true,
     title:
-      "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
+      "<a href='/'>暗夜冷鋒 SRD</a>",
   },
   siteMetadata: {
     title: 'Gatsby Gitbook Boilerplate | Hasura',
     description: 'Documentation built with mdx. Powering hasura.io/learn ',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
+    docsLocation: 'https://github.com/wayne930242/blades-in-the-dark-srd/tree/master/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
@@ -69,7 +78,7 @@ const config = {
       crossOrigin: 'use-credentials',
       icons: [
         {
-          src: 'src/pwa-512.png',
+          src: 'src/sword.png',
           sizes: `512x512`,
           type: `image/png`,
         },

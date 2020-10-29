@@ -286,7 +286,7 @@ export const baseStyles = injectGlobal`
   }
 
   .navBarBrand img {
-    width: 120px;
+    width: 240px;
     margin-right: 6px;
     display: inline-block;
   }
@@ -730,6 +730,22 @@ export const baseStyles = injectGlobal`
   }
   .topnav {
     -webkit-transition: top 0.5s, bottom 0.5s;
+  }
+
+  em {
+    font-style: normal;
+    background-color: rgba(207, 233, 245, 0.6);
+  }
+
+  .game-term {
+    font-weight: 700;
+    border-style: solid;
+    border-width: 2px;
+    padding-left: 1px;
+    padding-right: 1px;
+    margin-left: 2px;
+    margin-right: 2px;
+    border-radius: 10px"
   }
 
   @media (max-width: 767px) {

@@ -70,7 +70,7 @@ NPC 與派系們也會在 PC 們休整時做些事。GM 為此時他們有興趣
 
 **過度沈溺**：你因惡習——在獲取它時或在它的影響下——做出一個壞決定。你做了什麼？
 
-* <span class="game-term">引來麻煩。</span>或許你的敵人追你追到了你的惡習供應者那裡，而你卸下了你的防備。選擇或擲一個額外的<strong>糾纏</strong>。
+* <span class="game-term">引來麻煩。</span>或許你的敵人追你追到了你的惡習供應者那裡，而你卸下了你的防備。選擇或擲一個額外的<strong>糾葛</strong>。
 * <span class="game-term">吹噓：</span>或許你吹噓了你們的豐功偉業。幫派得到 <strong>+2</strong> <span class="game-term">盯迫</span>。
 * <span class="game-term">失蹤。</span>扮演另外一個角色直到這個傢伙從狂歡中回來。
 * <span class="game-term">限阻。</span>你當前的供應者切斷了你的供應。尋找新的來源來沉溺於你的惡習。

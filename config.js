@@ -9,7 +9,7 @@ const config = {
     logo: 'https://i.imgur.com/OvpWSmY.png',
     logoLink: '/',
     title:
-      '暗夜冷鋒 SRD',
+      '暗夜冷鋒',
     githubUrl: 'https://github.com/wayne930242/BitD/',
     helpUrl: '',
     tweetText: '',

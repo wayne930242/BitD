@@ -31,7 +31,7 @@ _GM 決定傷害如何被抵抗骰減輕，但無法完全避免。克羅斯遭�
 ### 創傷狀態
 
 * <span class="game-term">冷漠</span>：你無法被情緒訴求或社會連帶所影響。
-* <span class="game-term">惡夢</span>：你常迷失於妄想、想擺脫過往的恐懼和看見事物之中。
+* <span class="game-term">惡夢</span>：你常迷失於妄想、恐懼纏身和所見事物中。
 * <span class="game-term">癡迷</span>：你被一件事情迷住了：一項活動、一個人、一個想法。
 * <span class="game-term">偏執</span>：你幻想到處都是危險；你無法相信他人。
 * <span class="game-term">魯莽</span>：你不太意識到自己的安全或最佳利益。

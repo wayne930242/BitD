@@ -37,7 +37,7 @@ metaDescription:
 
 每個屬性的評等等同於在屬性下面的**第一直欄**的黑點數目。你的角色在該行動組越完整，他的屬性評等就越好。
 
- <img style="width:25%;padding:4%;display:inline-block" src="/BitD/insight.png" /><img style="width:25%;padding:4%;display:inline-block;" src="/BitD/prowess.png" /><img style="width:25%;padding:4%;display:inline-block;" src="/BitD/resolve.png" />
+ <img style="width:25%;padding:4%;display:inline-block;min-width:200px;" src="/BitD/insight.png" /><img style="width:25%;padding:4%;display:inline-block;min-width:200px;" src="/BitD/prowess.png" /><img style="width:25%;padding:4%;display:inline-block;min-width:200px;" src="/BitD/resolve.png" />
 
 # 抵抗骰
 
@@ -53,13 +53,13 @@ metaDescription:
 
 _你能和鬼魂溝通。你可以嘗試感知超感官的事物來更了解你的處境（但<span class="game-term">調查</span>可能更好）。_
 
-當你進行<span class="game-term">命令</span>，你強迫立即的服從。
+當你進行<span class="game-term">命令</span>，你強迫人立刻服從。
 
 _你能脅迫或威脅來得到你想要的。你能領導幫派進行團體行動。你可以嘗試對人發號施令來說服他們（但<span class="game-term">勾結</span>可能更好）。_
 
 當你進行<span class="game-term">勾結</span>，你與朋友和聯絡人進行人際社交。
 
-_你能得到取用或進入資源、資訊、人脈或地點的機會。你能以你的魅力和風格給人好的印象或是贏得他們的青睞。你能交新朋友或與你的出身或背景進行聯繫。你可以嘗試以社交壓力操縱你的朋友（但<span class="game-term">動搖</span>可能更好）。_
+_你能得到取用或進入資源、資訊、人脈或地點的機會。你能以你的魅力和風格給人好印象或贏得他們的青睞。你能交新朋友或與你的出身或背景進行聯繫。你可以嘗試以社交壓力操縱你的朋友（但<span class="game-term">動搖</span>可能更好）。_
 
 當你展現<span class="game-term">靈巧</span>，你俐落地控制或巧妙地誤導。
 

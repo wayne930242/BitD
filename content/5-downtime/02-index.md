@@ -13,7 +13,7 @@ metaDescription: ""
 
 引人注目或顯赫的標的得到 +1 <span class="game-term">盯迫</span>。如果情況發生在敵方地盤上，+1 <span class="game-term">盯迫</span>。如果你們正在與另一個派系交戰，+1 <span class="game-term">盯迫</span>。如果涉及殺人（不管是不是該幫派殺的——屍體會引起注意），+2 <span class="game-term">盯迫</span>。
 
-在幫派表的<span class="game-term">盯迫</span>追蹤軌上標注<span class="game-term">盯迫</span>等級。
+在幫派卡的<span class="game-term">盯迫</span>追蹤軌上標注<span class="game-term">盯迫</span>等級。
 
 <img style="width:50%;min-width:200px;" src="/BitD/heat-track.gif" />
 

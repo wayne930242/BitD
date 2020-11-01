@@ -9,21 +9,21 @@ const config = {
     logo: 'https://i.imgur.com/OvpWSmY.png',
     logoLink: '/',
     title:
-      '',
+      '暗夜冷鋒 SRD',
     githubUrl: 'https://github.com/wayne930242/BitD/',
     helpUrl: '',
     tweetText: '',
     social: `<li>
 		    <a href="https://www.plurk.com/wayne930242" target="_blank" rel="noopener">
 		      <div class="twitterBtn">
-		        <img src='https://i.imgur.com/iGLquF1.png' alt={'Plurk'}/>
+		        <img src='https://i.imgur.com/X7ZvYKt.png' alt={'Plurk'}/>
 		      </div>
 		    </a>
       </li>
       <li>
 		    <a href="https://wayneh.tw" target="_blank" rel="noopener">
 		      <div class="twitterBtn">
-		        <img src='https://i.imgur.com/HxsSfah.png' alt={'Blog'}/>
+		        <img src='https://i.imgur.com/tzr2SH5.png' alt={'Blog'}/>
 		      </div>
 		    </a>
 		  </li>`,
@@ -57,7 +57,7 @@ const config = {
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://wayneh.tw/BitD'>暗夜冷鋒 SRD</a>",
+      "<a href='https://wayneh.tw/BitD'>首頁</a>",
   },
   siteMetadata: {
     title: '暗夜冷鋒 SRD',

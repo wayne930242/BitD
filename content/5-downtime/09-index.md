@@ -4,54 +4,63 @@ metaTitle: ""
 metaDescription: ""
 ---
 
-During downtime, a PC can <span class="game-term">Tinker</span> with special materials and tools to produce strange **alchemicals**, **build** (or **modify**) **items**, **create spark-craft** gadgets, or enchant **arcane** implements or weapons. The system for each method is similar, with different details depending on the nature of the project.
+休整期間，PC 可以<span class="game-term">擺弄</span>特殊材料和工具來製造怪異的**煉金術**、**建造**（或**改裝**）**道具**, **創造機電**裝置、附魔**奧術**植入物或武器。每個方法的系統都是類似的，依專案本性的不同有著不同細節。
 
-# Inventing
+# 發明
 
-To invent a formula for a new alchemical concoction or the plan for a new item of your design, you need to <span class="game-term">研究</span> it as a **long-term project**. Most new formulas or designs will require an 8-segment progress clock to invent and learn. The player and the GM answer questions about the invention to define what it will do in play and what is required to create it (see below). The player records these answers in their notes for future reference.
+發明新的煉金術混合物的配方或你設計的新道具的設計圖，你必須以**長期專案**來<span class="game-term">研究</span>。大多新配方或設計需要 8 區段的進度鐘來發明與學習。玩家和 GM 回答關於發明的問題，來定義它要如何進場，並且有什麼創造要求（如下）。玩家將回答紀錄在筆記上，供未來參考。
 
-## Creation Questions
+## 打造問題
 
-1. GM asks: **“What type of creation is it and what does it do?”** Player answers. A creation might be mundane, alchemical, arcane, or spark-craft. If a PC has an appropriate special ability (<span class="game-term">Alchemist</span><span class="game-term CharOverride-15">, </span><span class="game-term">Artificer</span><span class="game-term CharOverride-15">, </span><span class="game-term">Strange Methods</span>), they get bonuses when inventing and crafting certain creation types.
-1. Player asks: **“What’s the minimum quality level of this item?”** GM answers, with the **magnitude** of the effects the item produces as a guideline.
-1. GM asks: **“What rare, strange, or adverse aspect of this formula or design has kept it in obscurity, out of common usage?**” Player answers.
-1. Player asks: **“What drawbacks does this item have, if any?”** GM answers by choosing one or more from the drawbacks list, or by saying there are none.
+1. GM 問：**「創造物是什麼類型？它能做什麼？」**玩家回答。一個創造物可以是普通、煉金術、奧術或機電等。如果 PC 有合適的特殊能力（<span class="game-term">煉金術士</span>、<span class="game-term">器械師</span>、<span class="game-term">古怪手法</span>），他們在發明和打造特定類型的東西時，可以獲得獎勵。
+2. 玩家問：**「該道具的最小品質等級是多少？」**GM 回答，以道具產生的效果的**量級**作為指導原則。
+3. GM 問：**「該配方或設計有什麼稀有、奇怪或不良的地方，以至於它沒沒無聞、不常使用？」**玩家回答。
+4. 玩家問：**「這到具有什麼缺點嗎？**GM 從缺點表中選擇一個或是更多，或是說其實沒有。
 
-A PC with the <span class="game-term">Alchemist</span>, <span class="game-term">Artificer</span>, or <span class="game-term">Strange Methods</span> special abilities invents and learns one special formula when they take the ability (they don’t have to take time to learn it).
+有<span class="game-term">煉金術士</span>、<span class="game-term">器械師</span>、或<span class="game-term">古怪手法</span>特殊能力的玩家，在取得該能力時，就學會一個特殊配方（他們不需要再花費時間學習它）。
 
-Once you’ve invented a formula or design, you can **craft** it by using a downtime activity (see **Crafting**, below). No one else can craft this invention unless they learn your design as a long-term project. If you acquire a formula or design invented by another tinkerer, you may learn to craft it by completing a long-term project.
+當你發明一個配方或設計時，你可以使用一次休整活動來**打造**它（如下，**打造**小節）。沒有人可以打造這個發明，除非他們以一個長期計畫學習你的設計。如果你從其他擺弄者那裡獲取了配方或設計，你可以完成一個長期專案來學習打造它。
 
-Common alchemicals (see **Sample Creations** on page 226) and ordinary items don’t require special formulas or designs to learn. Anyone may attempt to craft them by using commonly available instructions.
+普通煉金術（見**創造範例**）和普通道具不需要特殊的配方或設計就能學習。所有人都能使用一般可行的指令來嘗試打造它們。
 
-# Crafting
+# 打造
 
-@TODO add table p109
+> ## 打造骰
+> 
+> * 每個<span class="game-term">打造</span>行動點 **1d**。
+> * 每枚花費的<span class="game-term">錢幣</span> **+1 品質**。
+> * 有<span class="game-term">工房</span>的幫派升級 **+1 品質**。
+>
+> * <span class="game-term">關鍵：</span>品質等級為層級 +2。
+> * <span class="game-term">6：</span>品質等級為層級 +1。
+> * <span class="game-term">4/5：</span>品質等級等同於層級。
+> * <span class="game-term">1-3：</span>品質等級為層級 -1。
 
-To craft something, spend one **downtime activity** to make a <span class="game-term">Tinker</span> roll to determine the **quality level** of the item you produce. The base quality level is equal to your crew’s 層級, modified by the result of the roll (see the results on the next page).
+要打造物品，花費一個**休整活動**來擲一次<span class="game-term">擺弄</span>骰來決定你製造的道具的**品質等級**。基本的品質等級等同於你們幫派的層級，由擲骰結果調整（如上）。
 
-The results are based on your crew’s 層級 because it indicates the overall quality of the workspace and materials you have access to. _If you do the work with the **Workshop** upgrade for your crew, your effective 層級 level is one higher for this roll._
+結果建立於你們幫派的層級，因為那代表了工作空間和你們能取得的材料的總體品質。_如果你們的幫派升級了**工房**，在那工作可以讓你的效果層級會比擲骰結果高一等級。_
 
-The GM sets a **minimum quality** level that must be achieved to craft the item, based on the **magnitude** of the effect(s) it produces. The GM uses magnitude as a _guideline_ for setting the quality level—it may be higher or lower at their discretion to better describe the nature of the project. An item may be crafted at _higher_ quality if the player wishes to attempt it.
+GM 設定要成功打造該道具的**最小品質**等級，依據它所創造的效果的**量級**。GM 以**量級**作為 _指導原則_ 來設定品質等級——他可以裁量更高或更低來更好地描述儀式的本性。如果玩家希望嘗試，一個物品可能可以打造成 _更高_ 的品質。
 
-You may spend <span class="game-term">錢幣</span> 1-for-1 to increase the final quality level result of your roll (this can raise quality level beyond 層級 +2).
+你可以花費<span class="game-term">錢幣</span>，一對一地增加你擲骰結果的最終品質等級（這可以將品質等級提高到超過層級 +2）。
 
-## Modifying an item
+## 改造道具
 
-Adding a feature or additional function to an item is simpler than creating something new. You don’t need to invent a special formula or plan. Make a crafting roll to modify an item (the baseline quality of an item that you modify is equal to your crew’s 層級, as usual).
+為一個道具增加特色或額外功能要比重新打造物品簡單。你不需要發明特殊配方或設計圖。進行一次打造骰來改造一個物品（你所改造的道具的基準品質等同於你們幫派的層級，和常）。
 
-* A simple, useful modification requires 層級 +1 quality. _A rifle that breaks down into two sections to be more easily concealed._
-* A significant modification requires 層級 +2 quality. _Strengthening the barrel and powder load of a gun to fire further._
-* An arcane, spark-craft, or alchemical modification requires 層級 +3 quality. _A dagger that can harm a demon. An electrified hull on a boat to repel boarders or ghosts. An outfit coated with chemicals to mask you from deathlands predators._
+* 一個簡單的、有用的改造需要層級 +1 的品質。_將一把步槍分成兩部分，讓他更容易隱蔽。_
+* 一個顯著的改造需要層級 +2 的品質。_強化槍管以及填裝的火藥，以讓槍射得更遠。_
+* 一個奧術、機電、煉金術的改裝需要層級 +3 的品質。 _一把能傷害惡魔的匕首。在小舟上裝電氣化船體，用來驅趕登船者或鬼魂。一件塗有化學藥劑的外裝，讓你不被死亡之地的掠食者發現。_
 
-Modified items, like special creations, may have **drawbacks**.
+強化道具，就像是其他特殊創造，可能有**缺點**。
 
-## Drawbacks
+## 缺點
 
-A creation or modification may have one or more drawbacks, chosen by the GM.
+一個創造物或改裝可以有一個或更多缺點，由 GM 選擇。
 
-* <span class="game-term">Complex. </span>You’ll have to create it in multiple stages; the GM will tell you how many. One downtime activity and crafting roll is needed per stage.
-* <span class="game-term">Conspicuous. </span>This creation doesn’t go unnoticed. Take **+1** <span class="game-term">追緝</span> if it’s used any number of times on an operation.
-* <span class="game-term">Consumable.</span> This creation has a limited number of uses (all alchemicals must have this drawback, usually one use).
-* <span class="game-term">Rare. </span>This creation requires a rare item or material when it is crafted.
-* <span class="game-term">Unreliable. </span>When you use the item, make a fortune roll (using its **品質**) to see how well it performs.
-* <span class="game-term">Volatile. </span>The item produces a dangerous or troublesome side-effect for the user, specified by the GM (see examples on the sample creations, next page). A side-effect is a consequence, and may be **resisted**.
+* <span class="game-term">複雜。</span>需要分多階段來創造，GM 會說需要多少階段。每個階段都需要一次休整活動和打造骰。
+* <span class="game-term">引人注目。</span>這個創造物無法不被注意到。如果在任務行動中多次使用它，會得到 <strong>+1</strong> <span class="game-term">盯迫</span>。
+* <span class="game-term">消耗品。</span>這個創造物有一定的使用次數（所有的煉金術都有這個缺點，通常只能用一次）。
+* <span class="game-term">稀有。</span>這個創造物在打造時需要稀有道具或材料。
+* <span class="game-term">不可靠。</span>當你使用這道具時，進行一次運氣骰（使用它的<strong>品質</strong>）來看它是否能良好運作。
+* <span class="game-term">不穩定。</span>該道具會對使用者產生危險或麻煩的副作用，由 GM 指定。副作用可以是一個後果，可能可以被**抵抗**。

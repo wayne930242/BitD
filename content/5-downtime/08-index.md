@@ -4,40 +4,40 @@ metaTitle: ""
 metaDescription: ""
 ---
 
-To enact a ritual is to come into contact with these abyssal forces and entreat them to do your will. It is a practice not without considerable risk.
+舉行儀式就是與這些深淵力量接觸，懇求他們遵循你的意志。這是不無風險的行徑。
 
-# Finding a ritual source
+# 尋找儀式來源
 
-A PC with the <span class="game-term">Ritual</span> special ability begins with one known ritual, already learned (answer the questions below to create it). To learn a new ritual, a PC must first find a **source**. A source may be secured as payoff from a score—perhaps you steal a ritual book when your crew robs the Museum of Antiquities. You might also secure a source as the goal of a long-term project—by consorting with cultist friends, studying ancient texts, or some other method you devise.
+具有<span class="game-term">儀式</span>特殊能力的 PC 開始時有一個已知的儀式，已經學會了（回答下面問題來創造它）。要學習新儀式，PC 必須尋找**來源**。來源可能由案件的回報提供——或許當你們幫派劫掠「古董博物館」時，你們偷到了儀式書。你們也可以長期專案來取得來源——透過勾結神秘學家的朋友、研究古老文書、或你構思的其他方法。
 
-# Learning a ritual
+# 學習儀式
 
-Once the source of a ritual is found, you may undertake a long-term project to learn the ritual. Most rituals will require an 8-segment progress clock to learn. The player and the GM answer questions about the ritual to define what it will do in play and what is required to perform it (see below). The player records these answers in their notes for future reference.
+一旦找到了儀式來源，你們可以開展長期專案來學習儀式。大多數儀式需要八區段的進度鐘來學習。玩家和 GM 回答關於儀式的問題，來決定它會怎樣進場，並且如何進行（如下）。玩家將回答紀錄在他們的筆記上，供未來參考。
 
-## Ritual Questions
+## 儀式問題
 
-1. GM asks: **“What does the ritual do and how is it weird?”** Player answers.
-1. Player asks: **“What must I do to perform the ritual, and what is its price?”** GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**.  If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually <span class="game-term">同調</span>). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
-1. GM asks: **“What new belief or fear does knowledge of this ritual and its attendant occult forces instill in you?”** Player answers.
+1. GM 問：**「儀式是什麼？它為什麼怪異？」**玩家回答。
+2. 玩家問：**「我如何執行儀式？它需要怎樣的花費？」**GM 回答。一個儀式至少需要一次休整活動來執行，並依照它的**量級**對施術者造成**壓力**。如果該儀式的執行有某種危險或麻煩，它需樣一次行動骰（通常是<span class="game-term">同調</span>）。一個儀式也可能需要額外的代價，像是獻祭、稀有道具、開始一個不詳的進度鐘等。
+3. GM 問：**「對該儀式及對所伴隨的神秘學力量的了解，你被灌輸了什麼新的信念或恐懼？」**玩家回答。
 
-## Example Ritual Answers
+## 儀式回答範例
 
-> Player: “The ritual wards a person so that the ghosts of their victims cannot find them. It’s weird because... as long as the ward is in place, the person sometimes weeps tears of black blood.”
+>玩家：「這儀式能給人防護，讓受害者的鬼魂找不到他。怪異的地方在⋯⋯只要防護還在，這人有時會流下黑色的血淚。」
 
-> GM: “Spend a downtime action to prepare a mixture of tobacco, dream smoke, and crematory ash from a victim—which the target then smokes. You take at least 3 stress when you perform the ritual, which will be its quality for a fortune roll when it’s challenged by a spirit—so you might want to take more stress to make it more potent.”
+> GM：「花費一次休整的行動準備菸草、夢煙（dream smoke）和受害者的骨灰的混合物——目標要吸食這些東西。當你執行這儀式時，至少要承受 3 點壓力，這是當靈體被挑戰時幸運骰的品質——所以你可能會想承受更多的壓力來使它更有效。」
 
-> Player: “Gotcha. My new fear is what will happen if the spirits figure out where the ward came from and turn their vengeance on me, instead.”
+>玩家：「瞭。我新的恐懼是，如果鬼魂們弄清楚防護的來歷，反而會改為把復仇的矛頭指向我。」
 
-# Performing a Ritual
+# 執行儀式
 
-To perform a ritual, you must have the <span class="game-term">Ritual</span> special ability, then follow the method outlined by the answers to the ritual questions. Most rituals will take **one downtime activity** to complete, though the GM may call for two (or more) downtime activities for very powerful or far-reaching rituals. Some rituals may be partially performed during downtime and then fully manifested at-will later by completing the last incantation or ritual action. In this case, simply make a note that the ritual has been “primed” and may be unleashed at a later time.
+要執行儀式，你必須有<span class="game-term">儀式</span>特殊能力，然後遵循儀式問題所勾勒出的方法。大多數儀式需要花費**一個休整活動**來完成，雖然 GM 可能為格外強大或難以完成的儀式要求兩個或更多休整活動。許多儀式可以部分在休整完成，然後再想要完整顯現時，才透過最後咒語或儀式行動來完成它。在這情況下，只要備註儀式已經「備妥」，可以在往後釋放。 
 
-When you perform a ritual, you take an amount of **stress** as established by the ritual questions, according to the **magnitude** of the forces brought to bear. The GM uses magnitude as a _guideline_ for setting the stress cost—it may be higher or lower at their discretion to better describe the nature of the ritual. Some claims and special abilities also reduce the stress cost for ritual casting (like the Cult’s **Ancient Obelisk** claim).
+當你執行儀式，你得到從儀式問題，依據所帶來的力量的**量級**所建立的，你會得到那樣多的**壓力**。GM 使用量級作為設定所花壓力的 _指導原則_——他可以裁量更高或更低來更好地描述儀式的本性。一些權利和特殊能力也可以減少施放儀式時花費的壓力（如「邪教」的**古老方尖碑**）權利。
 
-**Rituals take time to cast.** Use the duration examples on the magnitude table to reduce the stress cost based on the time needed, generally no less than an hour.
+**花費時間施放儀式。**依據所花時間，使用量級表上的持續時間範例，依據所需時間來減輕壓力花費，一般不會低於一個小時。
 
-The GM may also **tick a progress clock** when you perform a ritual—to advance the agenda of an arcane power or entity, or to show the steady approach of a dark outcome that is a consequence of the ritual’s use.
+當你執行儀式時，GM 也可以**倒數一個進度鐘**——推進奧術力量或實體的計畫事程，或是展示由儀式的使用所帶來的黑暗後果的穩定迫近。
 
-If a ritual is dangerous or troublesome to perform, make an **action roll** (usually <span class="game-term">同調</span>) to see if unpleasant consequences manifest. If a ritual has an uncertain effect then a **fortune roll** should be made to see how well it manifests. Because a ritual is a downtime activity, you may spend <span class="game-term">錢幣</span> 1-for-1 to increase the result level of your fortune roll (this represents the expenditure of expensive or rare ritual materials). If a ritual is both dangerous and uncertain, then both rolls may be called for.
+如果儀式的執行有危險或麻煩，進行**行動骰**（通常是<span class="game-term">同調</span>）來看不安的後果是否發生。如果儀式有不確定的效果，那麼應該擲**運氣骰**來看看會如何發生。因為儀式是休整活動，你可以花費<span class="game-term">錢幣</span>，一對一地增加你的運氣骰的結果等級（代表昂貴的花費或稀有的儀式材料）。如果儀式既危險又不確定，兩個骰子都可能需要擲。
 
-Each performance of a ritual is a unique event, and may not always work the same way each time. The GM or players may call for a round of questions to establish a ritual anew. Rituals are a way to bring in a wide variety of arcane effects into the game. Use with caution! If you ever go overboard, address the questions again to establish new weirdness and costs if things have gotten out of hand. The abyssal forces are not playthings and cannot be considered a reliable or safe source of power.
+每次儀式的執行都是一次額外事件，不能每次都以同樣的方式運作。GM 或玩家可以再來要求一輪問題來更新建立儀式。儀式是一種將各種各樣奧術效果帶入遊戲的方法。小心使用！如果你們玩過頭了，再次回到問題來建立新的怪異和花費，來解決失控問題。深淵力量不是玩物，不能是可靠或安全的力量來源。

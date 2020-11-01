@@ -4,20 +4,59 @@ metaTitle: ""
 metaDescription: ""
 ---
 
-Supernatural entities and energies have a wide variety of effects and power levels. To help the GM judge these forces consistently, the **magnitude** scale is provided. See the master table of magnitude at right. Magnitude measures the quality level of a ghost or demon or different aspects of an arcane force: its area, scale, duration, range, and force. Whenever you need to assess an entity or power, use the magnitude scale as a guideline to judge how it compares relative to the examples given on the table.
+超自然實體和能量有各種各樣的效果和力量等級。為幫助 GM 一致地判定這些力量，我們提供了**量級**規模。請見下面的量級總表。量級衡量鬼魂、惡魔的品質等級，或奧術力量的不同面向：面積、規模、持續時間、範圍和力量。當你需要評估實體或力量時，以量級表作為準則，判斷比較它和表上的例子。
 
-You can use the magnitude of an entity or power as a dice pool for a **fortune roll** to see how much effect it has, if it’s not obvious or certain.
+你可以使用實體或力量的量級作為骰池以進行**運氣骰**，來看它有多少效果，如果還不明顯或確定的話。
 
-> A sea demon summons a crushing wave at the canal dock where the PC 們are landing their boat. How badly does this damage the vessel and the crew? Obviously it’s gonna be bad for them, but are they merely sinking or are they immediately wrecked and sunk? The GM makes a fortune roll using 6d (the magnitude of the demon). On a <span class="game-term">1-3</span>, the wave has only little effect (for a huge wave), causing the craft to take on water and begin sinking. On a <span class="game-term">4-5</span>, the wave has reduced effect, fully swamping the boat and throwing some of the characters and their cargo overboard. On a <span class="game-term">6</span>, the wave has full effect, immediately sinking the boat and dragging the crew and cargo under. On a <span class="game-term">關鍵</span>, the boat is sunk, and also the crew and cargo are badly harmed by flying debris and the crushing force of the wave.
+> 海魔在運河碼頭喚來了毀滅性的浪，那裡是 PC 們靠岸的地方。這對船和幫派的傷害有多大？這明顯是很糟糕的，但是他們只是會逐漸下沉？還是會立即沉沒？GM 用 6d（惡魔的量級）擲運氣骰。<span class="game-term">1-3</span> 時，波浪只有微小效果（以這麼大的浪來說），導致船隻進水並開始下沉。<span class="game-term">4-5</span> 時，海浪有削弱效果，完全淹沒了船，並把一些角色和他們的貨物扔到了海裡。<span class="game-term">6</span> 時，海浪有完整的效果，立即讓船沉沒，將幫派和貨物都拖入海中。<span class="game-term">關鍵</span>時，船被擊沉，幫派和貨物也被飛來的碎片和海浪的衝擊嚴重傷害。
 
-You can add levels of magnitude together to describe a combination of effects, or simply focus on one key feature for the magnitude assessment, ignoring other elements, even if they’re on the magnitude scale. They’re not _always_ additive.
+你可以將量級加在一起來描述效果的組合，或是簡單專注一個關鍵特色來評估量級，忽略其他的元素，即便它們也在量級規模上。它們並不總是 _加總_ 的。
 
-> In the example above, the demon generated magnitude 6 force and the GM included its area of effect “for free” as part of the power. A huge wave at a dock should affect the boats and the crews there, in their judgment.
+> 在上面的例子中，惡魔產生了力量 6，GM 將其影響範圍「免費」納入了力量的一部分。根據他的判定，碼頭的巨浪應該會影響到那裡的幫派和船員。
 
-> In a different session, a Whisper wants to accomplish a ritual that will unleash a hurricane across the district. The GM says that this is a very significant effect, so they add two levels of magnitude together: _force 6_ and _range 5_. To create such a devastating power, the Whisper will suffer 11 stress! The GM offers a compromise: the ritual will take a few hours to complete, so the stress cost will be reduced to 8, but some people in the affected area may realize what’s happening and flee before the full storm hits._
+> 在另一次聚會，「低語者」想要完成一項儀式，將在整個區域釋放颶風。GM 說這是非常顯著的效果，所以他把兩個量級等級加在一起：力量 6 和範圍 5。為了製造這樣的破壞力，「低語者」會承受 11 點壓力！GM 提供了一個折衷辦法：讓儀式花費數小時來完成，讓壓力成本減少到 8，但受影響地區中的某些人可能會意識到發生了什麼，可能在完整的風暴到來之前逃離。
 
-The magnitude table is provided as a tool to help the GM make judgment calls. It’s not meant to be a rigid restriction or mathematical formula to replace those judgment calls. Use the levels as a _guideline_ for setting a magnitude number that seem appropriate to you.
+量級表是提供給 GM 進行主觀判定的工具。並不是要拿來替代主觀判定的嚴格限制或數學公式。使用這些等級來作為設置你認為合適的量級數字的 _指導原則_。
 
-This table can also be used as a guide to **quality level** when a PC **acquires an asset** or crafts an **alchemical** or **gadget**.
+當 PC **獲取資產**或打造**煉金術**或**裝置**時，這表格也可以當作**品質等級**的指導。
 
-@TODO add tables from 105
+# 區域/規模
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 |
+|---|---|---|---|---|---|---|
+|櫥櫃|小房間|大房間|幾個房間|小建築|大建築|城市街區|
+|1 或 2 人|小團夥（3-6）|中團夥（12）|大團夥（20）|巨大團夥（40）|廣大團夥（80）|龐大團夥（80）|
+
+# 持續時間/範圍
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 |
+|---|---|---|---|---|---|---|
+|一下下|幾分鐘|一小時|幾小時|一天|好幾天|一週|
+|接近距離|幾步|石頭能丟到的|一大段路|好幾個街區遠|橫跨區域|橫跨城市|
+
+# 層級與品質/力量
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 |
+|---|---|---|---|---|---|---|
+|貧乏|足夠|良好|優秀|卓絕|驚人|傳奇|
+|貧弱|一般|強壯|強大|強勁|壓倒性|毀滅性|
+
+# 品質範例
+
+* **6**：豪宅、大型船艦、稀有的精華或法器、強大的惡魔。
+* **5**：大型別墅、小型船艦、定製服裝、避雷針。
+* **4**：豪車、別墅、典型的惡魔或強大的鬼魂。
+* **3**：馬車、小舟、軍用步槍、時尚服飾、小房子。
+* **2**：手槍、尊貴服飾、私人套房、典型的鬼魂。
+* **1**：格鬥刀、普通服飾、合租公寓、廉價食物或藥品。
+* **0**：生鏽的刀、破舊服飾、搖搖欲墜的街邊小屋。
+
+# 力量範例
+
+* **6**：颶風、熔岩、潮汐、電漩渦。
+* **5**：船炮、狂風暴雨、巨大火力、雷劈。
+* **4**：衝撞的馬、燃燒的熔爐、炸彈、旋風、電椅。
+* **3**：沉猛重擊、強大的風、手榴彈、灼燒的火、電弧。
+* **2**：強擊、呼嘯的風、燃燒的烙印。
+* **1**：紮實的一拳、穩健的風、火炬的火、觸電。
+* **0**：穩定的推力、燭火、微風、小火花。

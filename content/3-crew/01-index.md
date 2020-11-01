@@ -44,19 +44,19 @@ _增加問題來個人化幫派。這幫派如何和其他類似的幫派有所�
 為幫派製作權利地圖。權利範本包括：
 
 <ul>
-<li><span class="game-term">地盤：</span>你們在層級成長時需要的名望少一（最多少 6）。</li>
+<li><span class="game-term">地盤：</span>你們在層級成長時需要的rep少一（最多少 6）。</li>
 <li><span class="game-term ">城市紀錄：</span>你們在<strong>潛匿</strong>計畫的<strong>參案骰</strong>得到 <strong>+1d</strong>。 <em>你們可以使用藍圖和其他文件來決定滲透的進路。</em></li>
 <li><span class="game-term">掩蓋身分：</span>你們在進行<strong>社交計畫</strong>的<strong>參案骰</strong>得到 <strong>+1d</strong>。 <em>假身分能夠協助你們迷惑對手。</em></li>
-<li><span class="game-term">掩蓋任務：</span>你們在每次案件中得到 <strong>-2</strong> <span class="game-term">追緝</span>。 <em>合法任務的掩蓋幫助你們轉移當局的追緝。</em></li>
+<li><span class="game-term">掩蓋任務：</span>你們在每次案件中得到 <strong>-2</strong> <span class="game-term">盯迫</span>。 <em>合法任務的掩蓋幫助你們轉移當局的盯迫。</em></li>
 <li><span class="game-term">特使：</span>你們在牽涉到高階級對象的案件中的<strong>收買</strong>視作 <strong>+2</strong> <span class="game-term">錢幣</span>。 <em>良好的私通者幫你們對有錢人安排更好的收買行動。</em></li>
 <li><span class="game-term">貨頭：</span>你們在牽涉到低階級對象的案件中的<strong>收買</strong>視作 <strong>+2</strong> <span class="game-term">錢幣</span>。 <em>受到敬重的代理人幫你們對窮人安排更好的收買行動。</em></li>
 <li><span class="game-term">診療室：</span>你們在治療處置擲骰得到 <strong>+1d</strong>。 <em>診療室也有能用於長期恢復的病床。</em></li>
 <li><span class="game-term">線人：</span>你們在對作案的情報蒐集得到 <strong>+1d</strong>。 <em>你們在街上的耳目總在尋找新的標的。</em></li>
-<li><span class="game-term">保護費：</span>在休整中的任何時候，擲等同於你們的層級的骰子。你們獲得等同於結果的<span class="game-term">錢幣</span>，減去你們的<span class="game-term">追緝</span>。 <em>一些當地人很怕你們，很樂意為「保護」付錢。</em></li>
+<li><span class="game-term">保護費：</span>在休整中的任何時候，擲等同於你們的層級的骰子。你們獲得等同於結果的<span class="game-term">錢幣</span>，減去你們的<span class="game-term">盯迫</span>。 <em>一些當地人很怕你們，很樂意為「保護」付錢。</em></li>
 <li><span class="game-term">訓練室：</span>你們的某特定類型的同伴得到 <strong>+1 規模</strong>。 <em>額外的訓練讓他們就像是更大的團夥一樣地戰鬥。</em></li>
-<li><span class="game-term">縱慾之地：</span>在休整期間的任何時候，擲等同於你的層級的骰子。你們得到等同於最高結果的<span class="game-term">錢幣</span>，減去你們的<span class="game-term">追緝</span>。</li>
-<li><span class="game-term">戰利品：</span>你們在每次案件得到 <strong>+1 名望</strong>。 <em>你們的駭人「收集」的名聲不脛而走，而你們的大膽加強了你們在黑社會的聲望。</em></li>
-<li><span class="game-term">鬥技場：</span>休整期間，擲等同於你們的層級的骰子。你們得到等同於最高值的<span class="game-term">錢幣</span>，減去你們的<span class="game-term">追緝</span>。 <em>當地人喜愛在你們主持的染血運動中賭上辛苦賺來的錢。</em></li>
+<li><span class="game-term">縱慾之地：</span>在休整期間的任何時候，擲等同於你的層級的骰子。你們得到等同於最高結果的<span class="game-term">錢幣</span>，減去你們的<span class="game-term">盯迫</span>。</li>
+<li><span class="game-term">戰利品：</span>你們在每次案件得到 <strong>+1 rep</strong>。 <em>你們的駭人「收集」的名聲不脛而走，而你們的大膽加強了你們在黑社會的聲望。</em></li>
+<li><span class="game-term">鬥技場：</span>休整期間，擲等同於你們的層級的骰子。你們得到等同於最高值的<span class="game-term">錢幣</span>，減去你們的<span class="game-term">盯迫</span>。 <em>當地人喜愛在你們主持的染血運動中賭上辛苦賺來的錢。</em></li>
 <li><span class="game-term">街頭賊市：</span>在涉及低階級標的的案件中，你們得到 <strong>+2</strong> <span class="game-term">錢幣</span>作為報酬。 <em>專家能在你們窮困受害者的垃圾堆中找到寶物。</em></li>
 <li><span class="game-term">膽顫市民：</span>在涉及戰鬥或勒索的案件中，你們得到 <strong>+2</strong> <span class="game-term">錢幣</span>作為報酬。 <em>當你們發火，擔心受怕的當地人會表達他們的心意。他們不想成為下一個。</em></li>
 <li><span class="game-term">倉庫：</span>你們在<strong>獲取資產</strong>擲骰得到 <strong>+1d</strong>。 _你們有空間容納你們在戰鬥後得到的各種戰利品。它本身就很有用，也可以在你需要的時候以物易物。</li>
@@ -72,7 +72,7 @@ _增加問題來個人化幫派。這幫派如何和其他類似的幫派有所�
 <li><span class="game-term">忠實賊市：</span>在涉及竊盜或搶劫的案件中，你們得到 <strong>+2</strong> <span class="game-term">錢幣</span>作為報酬。 <em>要有熟練的眼睛和良好的人脈才能轉移贓物。</em></li>
 <li><span class="game-term">秘密路徑：</span>你們在<strong>隱匿</strong>計畫的<strong>參案骰</strong>得到 <strong>+1d</strong>。 <em>你們有機會進入早被遺忘的地下運河、屋頂走道或其他你選擇的路線。</em></li>
 <li><span class="game-term">酒館：</span>你們在現場的<span class="game-term">勾結</span>和<span class="game-term">動搖</span>得到 <strong>+1d</strong>。 <em>美味酒水和友善談話能走上很遠的路。</em></li>
-<li><span class="game-term">副業：</span>在休整中的任何時候，擲等同於你們的層級的骰子。你們獲得等同於結果的<span class="game-term">錢幣</span>，減去你們的<span class="game-term">追緝</span>。 <em>這是怎樣的合法業務？你們如何秘密拿到收入？</em></li>
+<li><span class="game-term">副業：</span>在休整中的任何時候，擲等同於你們的層級的骰子。你們獲得等同於結果的<span class="game-term">錢幣</span>，減去你們的<span class="game-term">盯迫</span>。 <em>這是怎樣的合法業務？你們如何秘密拿到收入？</em></li>
 </ul>
 
 # 幫派特殊能力
@@ -87,11 +87,11 @@ _增加問題來個人化幫派。這幫派如何和其他類似的幫派有所�
 
 ## 死神面紗
 
-由於艱苦的經驗或神秘學儀式，你們不會在案件中因涉及殺人而得到額外的<span class="game-term">追緝</span>。
+由於艱苦的經驗或神秘學儀式，你們不會在案件中因涉及殺人而得到額外的<span class="game-term">盯迫</span>。
 
 ## 無影無蹤
 
-當你們安靜地進行任務或讓它看起來像是意外，你們得到標的值的一半的<span class="game-term">名望</span>（向上取整），而非零。當你們在休整結束時<span class="game-term">追緝</span>為零，得到 **+1** <span class="game-term">名望</span>。
+當你們安靜地進行任務或讓它看起來像是意外，你們得到標的值的一半的<span class="game-term">rep</span>（向上取整），而非零。當你們在休整結束時<span class="game-term">盯迫</span>為零，得到 **+1** <span class="game-term">rep</span>。
 
 > 有許多客戶看重安靜的任務。這能力獎勵你們的低調。
 
@@ -111,7 +111,7 @@ _增加問題來個人化幫派。這幫派如何和其他類似的幫派有所�
 
 恐懼猶如尊重般有用。你們可以將<span class="game-term">通緝等級</span>算作**地盤**的數量。
 
-> 最大的<span class="game-term">通緝等級</span>是 4。無論你們握有的地盤有多少（包括從這個能力取得的），你們成長層級的最小<span class="game-term">名望</span>花費依然是 6。
+> 最大的<span class="game-term">通緝等級</span>是 4。無論你們握有的地盤有多少（包括從這個能力取得的），你們成長層級的最小<span class="game-term">rep</span>花費依然是 6。
 
 ## 精鋼火煉
 
@@ -131,11 +131,11 @@ _增加問題來個人化幫派。這幫派如何和其他類似的幫派有所�
 
 有時，朋友就像領土一樣有用。你們可以最多將你們擁有的三個 **+3 派系地位**當作地盤。
 
-> 如果你們的地位改變，你們會失去該地盤，直到它再次變成 +3。無論你們握有的地盤有多少（包括從這個能力取得的），你們成長層級的最小<span class="game-term">名望</span>花費依然是 6。
+> 如果你們的地位改變，你們會失去該地盤，直到它再次變成 +3。無論你們握有的地盤有多少（包括從這個能力取得的），你們成長層級的最小<span class="game-term">rep</span>花費依然是 6。
 
 ## 上流社會
 
-認識誰很重要。在休整期間得到 **-1 <span class="game-term">追緝</span>**，並且在**蒐集**關於城市菁英的**情報**時得到 **+1d**。
+認識誰很重要。在休整期間得到 **-1 <span class="game-term">盯迫</span>**，並且在**蒐集**關於城市菁英的**情報**時得到 **+1d**。
 
 ## 馱鼠
 
@@ -155,8 +155,8 @@ _增加問題來個人化幫派。這幫派如何和其他類似的幫派有所�
 
 ## 總動員
 
-在**休整**期間，你們的一個**同伴**可以進行以下一項休整活動：**獲取資產**、**降低<span class="game-term">追緝</span>**或進行**長期方案**。
+在**休整**期間，你們的一個**同伴**可以進行以下一項休整活動：**獲取資產**、**降低<span class="game-term">盯迫</span>**或進行**長期專案**。
 
 ## 只是路過
 
-在**休整**期間，得到 **-1 <span class="game-term">追緝</span>**。當你們的<span class="game-term">追緝</span>是 4 或更低，當你們裝作普通市民來欺瞞他人時得到 **+1d** 。
+在**休整**期間，得到 **-1 <span class="game-term">盯迫</span>**。當你們的<span class="game-term">盯迫</span>是 4 或更低，當你們裝作普通市民來欺瞞他人時得到 **+1d** 。

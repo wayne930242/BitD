@@ -1,70 +1,79 @@
 ---
-title: "追緝（Heat）"
+title: "盯迫"
 metaTitle: ""
 metaDescription: ""
 ---
 
-這個城市充滿了窺視與密探。你們所做的一切都可能被目擊，總是會有證據留下。為了反應這個，你們的幫派會獲得關於定罪的<span class="game-term">追緝</span>。在案件或與對手衝突後，你們的幫派得到由任務行動的本性決定的<span class="game-term">追緝</span>：
+這個城市充滿了窺視與密探。你們所做的一切都可能被目擊，總是會有證據留下。為了反應這個，你們的幫派會獲得關於定罪的<span class="game-term">盯迫</span>（Heat）。在案件或與對手衝突後，你們的幫派得到由任務行動的本性決定的<span class="game-term">盯迫</span>：
 
-* <span class="game-term">0 追緝：</span>平穩而安靜；低曝光。
-* <span class="game-term">2 追緝：</span>控制良好；標準曝光。
-* <span class="game-term">4 追緝： </span>吵而亂；高曝光。
-* <span class="game-term">6 追緝：</span>狂亂；極高曝光。
+* <span class="game-term">0 盯迫：</span>平穩而安靜；低曝光。
+* <span class="game-term">2 盯迫：</span>控制良好；標準曝光。
+* <span class="game-term">4 盯迫： </span>吵而亂；高曝光。
+* <span class="game-term">6 盯迫：</span>狂亂；極高曝光。
 
-引人注目或顯赫的標的得到 +1 <span class="game-term">追緝</span>。如果情況發生在敵方地盤上，+1 <span class="game-term">追緝</span>。如果你們正在與另一個派系交戰，+1 <span class="game-term">追緝</span>。如果涉及殺人（不管是不是該幫派殺的——屍體會引起注意），+2 <span class="game-term">追緝</span>。
+引人注目或顯赫的標的得到 +1 <span class="game-term">盯迫</span>。如果情況發生在敵方地盤上，+1 <span class="game-term">盯迫</span>。如果你們正在與另一個派系交戰，+1 <span class="game-term">盯迫</span>。如果涉及殺人（不管是不是該幫派殺的——屍體會引起注意），+2 <span class="game-term">盯迫</span>。
 
-在幫派表的<span class="game-term">追緝</span>追蹤軌上標注<span class="game-term">追緝</span>等級。
+在幫派表的<span class="game-term">盯迫</span>追蹤軌上標注<span class="game-term">盯迫</span>等級。
 
-heat-track.gif
+<img style="width:50%;min-width:200px;" src="/heat-track.gif" />
 
-When your <span class="game-term">追緝</span> level reaches 9, you gain a <span class="game-term">wanted level</span> and clear your <span class="game-term">追緝</span> (any excess <span class="game-term">追緝</span> “rolls over,” so if your <span class="game-term">追緝</span> was 7 and you took 4 <span class="game-term">追緝</span>, you’d reset with 2 <span class="game-term">追緝</span> marked).
+當你們的<span class="game-term">盯迫</span>等級達到 9，你們得到一個<span class="game-term">通緝等級</span>並清除你們的<span class="game-term">盯迫</span>（任何超額的<span class="game-term">盯迫</span>會「繼承」，所以如果你們的<span class="game-term">盯迫</span>是 7，而你們又取得 4 <span class="game-term">盯迫</span>，你們會重置到 2 <span class="game-term">盯迫</span>）。
 
-The higher your <span class="game-term">wanted level</span>, the more serious the response when law enforcement takes action against you (they’ll send a force of higher **品質** and **scale**).
+你們的<span class="game-term">通緝等級</span>越高，執法單位對於你們採取的行動就會越嚴重（他們派來的警力的**品質**和**規模**會越高）。
 
-Also, your <span class="game-term">wanted level</span> contributes to the severity of the **entanglements** that your crew faces after a score. See page <a>94</a> for details.
+同時，你們的<span class="game-term">通緝等級</span>也會影響到**糾葛**的嚴重性，你們在案件結束後都會面對這個。
 
-# Incarceration
+# 監禁
 
-The only way to reduce your crew’s <span class="game-term">wanted level</span> is through incarceration. When one of your crew members, friends, contacts—or a framed enemy—is convicted and incarcerated for crimes associated with your crew, your <span class="game-term">wanted level</span> is reduced by 1 and you clear your <span class="game-term">追緝</span>.
+能減輕你們幫派<span class="game-term">通緝等級</span>的唯一方法就是監禁。當你們的幫派成員、朋以、聯絡人——或被栽贓的敵人被你們幫派關聯的罪行所定罪並且監禁，你們的<span class="game-term">通緝等級</span>會減少 1，並且清除你們的<span class="game-term">盯迫</span>。
 
-Incarceration may result from investigation and arrest by the officers, or because someone turns themselves in and takes the fall for the crew’s crimes.
+監禁可能是因為警察的調查與逮補，或是因為有人自首，為幫派的罪行背鍋。
 
-The severity of the prison sentence depends on your <span class="game-term">wanted level</span>:
+罪責的嚴重性取決於你們的<span class="game-term">通緝等級</span>：
 
-* <span class="game-term">Wanted Level 4: </span>Life or execution.
-* <span class="game-term">Wanted Level 3:</span> A year or two.
-* <span class="game-term">Wanted Level 2:</span> Several months.
-* <span class="game-term">Wanted Level 1:</span> A month or two.
-* <span class="game-term">Wanted Level 0:</span> A few weeks. Or, the constables give you a beating to teach you a lesson (suffer level 3 harm, no resistance roll allowed—they keep going until you’re injured).
+* <span class="game-term">通緝等級 4：</span>終生或死刑。
+* <span class="game-term">通緝等級 3：</span>一或兩年。
+* <span class="game-term">通緝等級 2：</span>幾個月。
+* <span class="game-term">通緝等級 1：</span>一或兩個月。
+* <span class="game-term">通緝等級 0：</span>幾週。或是，警員給你一頓飽打，給你一個教訓（承受等級 3 傷害，不允許抵抗骰——他們會一直打到你受傷。）
 
-Incarceration is dehumanizing and brutal. The renown of your crew is your only real defense inside. When you serve your time, make an **incarceration roll** using your crew’s 層級 as the dice pool.
+監禁是不人道和殘酷的。你們幫派的名聲是你在裡頭唯一的防禦。當你服刑時，使用你們幫派的層級作為骰池來擲**監禁骰**。
 
-@TODO add table p92
+---
 
-# Prison claims
+> ## 監禁骰
+> 
+> * <span class="game-term">Critical：</span>你在裡面名揚四方。在你的服刑期間，你為你們的幫派得到 <strong>+3 rep</strong>、<strong> 1 個監獄權利</strong>和你們支持的派系的 <strong>+1 派系地位 </strong>。
+> * <span class="game-term">6：</span>你很好地完成了服刑。在你的服刑期間，你們的幫派得到<strong> 1 個監獄權利</strong>和你們支持的派系的 <strong>+1 派系地位 </strong>。
+> * <span class="game-term">4/5：</span>你默默完成服刑，沒有出什麼意外。
+> * <span class="game-term">1-3：</span>糟糕透了。你承受來自服刑經驗的創傷等級。
 
-@TODO add table p93
+---
 
-## Allied claim
+# 監獄權利
 
-One of your allies on the inside arranges for their faction to grant you a boon. Take a claim for your crew from a different crew type. You can’t take 地盤 with this claim.
+<img src="/claims-prison.gif" />
 
-## Cell block control
+## 結盟權利 Allied claim
 
-Your crew has a cell block under their total control—guards and all. You never take <span class="game-term">創傷</span> from incarceration.
+你在外的盟友安排派系給你個好處。為你的幫派得到來自另一個幫派類型的權利。你無法從這次權利中拿地盤。
 
-## Guard payoff
+## 獄區控制 Cell block control
 
-You claim several prison guards on your payroll. Take +1d to your 層級 roll when a member of your crew is incarcerated.
+你們的幫派完全控制了一個牢房區——獄卒及一切。你們永遠不會從監禁中得到<span class="game-term">創傷</span>。
 
-## Hardcase
+## 收買獄卒 Guard payoff
 
-Your reputation as a tough inmate bolsters your crew’s image. When your crew advances 層級, it costs 2 fewer <span class="game-term">coins</span> than it normally would.
+你們的工資單上多了幾個獄卒。當你們的幫派成員被監禁時，層級擲骰得到 +1d。
 
-## Parole influence
+## 強悍 Hardcase
 
-Political pressures of various sorts can be applied to the magistrates and warden who oversee sentences for crimes. With this claim, you’re always able to arrange for a shorter prison stay—as if your <span class="game-term">wanted level</span> was 1 lower. So, if your <span class="game-term">wanted level</span> was 3 when you went in, you’d spend only several months behind bars (equivalent to level 2) instead of a full year.
+你作為強硬囚犯的名聲會提升你們幫派的形象。當你們的幫派進階層級時，花費的<span class="game-term">錢幣</span>比一般少 2。
 
-## Smuggling
+## 緩刑影響力 Parole influence
 
-You arrange smuggling channels inside. You have **+2 load** while incarcerated, (starting from zero as a prisoner). If you take this claim twice, you’ll have 4 load while you’re serving time in Ironhook. Also, you may choose to carry <span class="game-term">錢幣</span> in place of load for purposes of bribes or acquiring assets while in prison. You may reset the items in your prison loadout whenever your crew has downtime.
+各種政治壓力都能對監督判罪的治安官與典獄長施壓。透過這項權利，你總是可以縮短獄期——就像你們的<span class="game-term">通緝等級</span>少 1 或著更低。所以，如果你入獄時，你們的<span class="game-term">通緝等級</span>是 3，你只需要在欄杆後面待上幾個月（就像是等級 2）而非一整年。
+
+## 走私 Smuggling
+
+你在裡頭安排了走私通道。你在監禁期間有 **+2 負載**，（作為一個囚犯，從零負載開始）。如果你拿了兩次這個權利，你在鐵籠子裡面服刑的時候將會有 **4 負載**。你也可以選擇攜帶<span class="game-term">錢幣</span>來代替負載，以在監獄中進行賄賂或獲取資產。每當你的幫派成員休整時，你都可以重置你在獄中持有的物品。

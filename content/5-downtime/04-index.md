@@ -4,88 +4,88 @@ metaTitle: ""
 metaDescription: ""
 ---
 
-Between scores, your crew spends time at their liberty, attending to personal needs and side projects. These are called **downtime activities** (see the list below). During a downtime phase, each PC has time for **two downtime activities**. _When you’re at war, each PC has time for only one._
+在案件與案件之間，你們的幫派自由運用他們的時間，處理個人需求和周邊計畫。這些叫作**休整活動**（見下表）。在休整階段，每個 PC 都有時間進行**兩個休整活動**。 _如果你們正與人交戰，所有 PC 只有時間進行一個。_
 
-* Acquire Asset
-* Long-Term Project
-* Recover
-* Reduce Heat
-* Train
-* Indulge 惡習
+* 獲取資產
+* 長期專案
+* 恢復
+* 減輕盯迫
+* 訓練
+* 沈溺惡習
 
-You may choose the same activity more than once. You can only attempt actions that you’re in a position to accomplish. If an activity is contingent on another action, resolve that action first.
+你可以多次選擇同一個活動。你只能嘗試你正要完成的行動。如果一項活動依賴於另一個行動，要先解決那個行動。
 
-A PC can make time for more than two activities, at a cost. **Each additional activity from the list costs** **1** <span class="game-term">錢幣</span> or **1** <span class="game-term">名望</span>. This reflects the time and resulting resource drain while you’re “off the clock” and not earning from a score. When you complete a new score, you reset and get two “free” activities again.
+PC 可以進行兩次以上的活動，但有代價。**每個列表上的額外活動都需要花費 1 枚<span class="game-term">錢幣</span>** or **1 點**<span class="game-term">rep</span>。這反應了你在「下班」而非案件中耗費的時間和資源。當你們完成一次新案件，你重置並再次獲得兩次「免費的」活動。
 
-Activities on the downtime list are limited; normal actions are not. During downtime, you can still go places, do things, make action rolls, gather information, talk with other characters, etc. In other words, only activities that are _on the list_ are limited.
+在休整列表上的活動是有限的；一般行動則不是。在休整期間，你依然可以去某地、作某事、擲行動骰、蒐集情報、與其他角色說話等。換句話說，只有 _表上_ 的活動是有限的。
 
-For any downtime activity, take **+1d** to the roll if a **friend** or **contact** helps you. After the roll, you may spend <span class="game-term">錢幣</span> after the roll to improve the result level. **Increase the result level by one for each **<span class="game-term">錢幣</span>** spent.** So, a <span class="game-term">1-3</span> result becomes a <span class="game-term">4</span> or a <span class="game-term">5</span>, a <span class="game-term">4/5</span> result becomes a <span class="game-term">6</span>, and a <span class="game-term">6</span> becomes a <span class="game-term">關鍵</span>.
+進行任何的修整活動，如果有**朋友**或**聯絡人**幫助你，擲骰就得到 **+1d**。在擲骰後，你能花費<span class="game-term">錢幣</span>來提升結果等級。**每花費一枚<span class="game-term">錢幣</span>錢幣可以增進一級的結果。**所以，<span class="game-term">1-3</span> 結果變成 <span class="game-term">4</span> 或是 <span class="game-term">5</span>，<span class="game-term">4/5</span> 結果變成 <span class="game-term">6</span>，而 <span class="game-term">6</span> 變成 <span class="game-term">關鍵</span>。
 
-**GM:** If a player can’t decide which downtime activity to pick, offer them a long-term project idea. You know what the player is interested in and what they like. Suggest a project that will head in a fun direction for them.
+**GM：**如果玩家無法決定要選擇哪個休整活動，提供他們一個長期專案點子。你知道玩家對什麼興趣和喜歡什麼。建議專案能為他們指出好玩的方向。
 
-> “Remember how you had that weird vision at the altar to the forgotten gods? Yeah, do you want to get to the bottom of that? Okay, start a long-term project—six segments—called... ‘Weird God Vibes.’ What do you do to work on that?”
+> 「還記得你在祭壇上對被遺忘的神產生的奇怪幻覺嗎？對，你想不想弄清楚那件事的真相？OK，開始六格的長期專案，叫⋯⋯『怪異神性』。你要怎麼做這件事？」
 
-# Acquire asset
+# 獲取資產
 
-Gain temporary use of an **asset**:
+獲得一項**資產**的暫時使用：
 
-* One special **item** or set of common items (enough for a gang of your 層級 scale).
-* A **cohort** (an expert or gang).
-* A **vehicle**.
-* A **ser惡習**. Transport from a smuggler or driver, use of a warehouse for temporary storage, legal representation, etc.
+* 一個特殊**道具**或一組（你們層級規模的一個團夥夠用的）一般道具。
+* 一個**同伴**（專家或團夥）。
+* 一輛**載具**。
+* 一項**服務**。走私者或司機的運送、倉儲的暫用、合法代表等。
 
-“Temporary use” constitutes one significant period of usage that makes sense for the asset—typically the duration of one score. An asset may also be acquired for “standby” use in the future. You might hire a gang to guard your lair, for example, and they’ll stick around until after the first serious battle, or until a week goes by and they lose interest.
+「暫時使用」是指令該資產有意義的一段關鍵使用期——通常是案件期間。一項資產也可以是為將來「備用」而獲取的。譬如，你可以雇傭一個團夥來看守你們的巢穴，他們會待到第一次嚴重的戰鬥發生，或是一週過去，他們對此失去興趣。
 
-To acquire the asset, roll the crew’s 層級<span class="game-term CharOverride-15">.</span> The result indicates the **品質** of the asset you get, using the crew’s 層級 as the base. <span class="game-term">1-3:</span> 層級 -1, <span class="game-term">4/5:</span> 層級, <span class="game-term">6:</span> 層級 +1, <span class="game-term">critical:</span> 層級 +2. You can spend <span class="game-term">錢幣</span> to raise the result of this roll beyond <span class="game-term">關鍵</span> by spending **2** <span class="game-term">錢幣</span> per additional 層級 level added.
+要獲取資產，擲幫派的層級。結果代表獲得的資產的**品質**，以幫派的層級作為基礎。<span class="game-term">1-3：</span>層級 -1，<span class="game-term">4/5：</span>層級，<span class="game-term">6:</span>層級 +1，<span class="game-term">關鍵：</span>層級 +2。你可以花費<span class="game-term">錢幣</span>讓結果提高到超過<span class="game-term">關鍵</span>，每個額外層級等級花費 **2 枚**<span class="game-term">錢幣</span>。
 
-The GM may set a **minimum quality** level that must be achieved to acquire a particular asset. For example, if you want to get a set of Warden uniforms and masks, you’d need to acquire a 層級 IV asset. A lower result won’t do.
+GM 可能設定一個要獲取該資產所需的**最小品質**等級。譬如，如果你想要一套「典獄長」的制服和面具，你可能得獲取層級 IV 的資產。更低就不行。
 
-If you acquire the same asset again, you get **+1d** to your roll. If you continue to re-acquire an asset every time it’s used, you can effectively rent it indefinitely.
+如果你再次獲取相同的資產，你可以在擲骰時 **+1d**。如果你連續地每次都重新獲取同樣的資產，你實際上可以無限期地租用它，
 
-Alchemicals, poisons, bombs, and dangerous gadgets are highly restricted. When you acquire one of these items (rather than crafting it yourself), you take **+2** <span class="game-term">追緝</span>.
+煉金術、毒藥、炸彈和危險裝備的限制較高。當你獲取一項該類道具時（除非你自己打造），你們得到 **+2** <span class="game-term">盯迫</span>。
 
-If you want to acquire an asset permanently, you can either gain it as a crew upgrade or work on it as a **long-term project** to set up a permanent acquisition.
+如果你想要永久獲取一項資產，你要嘛可以在幫派升級時得到，要嘛進行**長期專案**來設置一次永久獲取。
 
-> Zamira the Whisper is a duelist in the Iruvian style, and would like a fine sword to add to her permanent items. Her player starts a long-term project: “Get My Family Sword Back from the Pawn Shop.” The GM says this is an 8-clock (she can work on it by <span class="game-term">Consorting</span> or <span class="game-term">Swaying</span> the pawn shop owner or maybe rolling her lifestyle level to represent small payments).
+> 「低語者」扎米拉是一名伊魯維亞（Iruvian）風格的決鬥者，她希望將一把好劍加入永久道具。她的玩家開始了一個長期專案。「從當鋪取回我的家傳寶劍」。GM 說這是個 8 格鐘（她可以<span class="game-term">勾結</span>或<span class="game-term">動搖</span>當鋪老闆，或著以她的生活水平擲骰來代表小筆支付）。
 
-# Long-term project
+# 長期專案
 
-When you work on a long-term project (either a brand new one, or an already existing one), describe what your character does to advance the project clock, and roll one of your actions. Mark segments on the clock according to your result: <span class="game-term">1-3:</span> one segment, <span class="game-term">4/5:</span> two segments, <span class="game-term">6:</span> three segments, <span class="game-term">critical:</span> five segments.
+當你們在進行一個長期專案（全新的、或是已經存在的），描述你的角色如何進展計畫，並且以一個行動擲骰。根據你的結果在鐘上標記：<span class="game-term">1-3：</span>一個區段，<span class="game-term">4/5：</span>兩個區段，<span class="game-term">6：</span>三個區段，<span class="game-term">關鍵：</span>四個區段。
 
-A long-term project can cover a wide variety of activities, like doing research into an arcane ritual, investigating a mystery, establishing someone’s trust, courting a new friend or contact, changing your character’s 惡習, and so on.
+一個長期專案可以涵蓋許多活動，像是在奧術遺跡中研究、調查一個謎團、建立某人的信任、結交新朋友或聯絡人、變更角色的惡習等等。
 
-Based on the goal of the project, the GM will tell you the clock(s) to create and suggest a method by which you might make progress.
+根據專案的目標，GM 會告訴你鐘如何創建，並建議你可以採取的方法。
 
-In order to work on a project, you might first have to achieve the means to pursue it—which can be a project in itself. For example, you might want to make friends with a member of the City Council, but you have no connection to them. You could first work on a project to <span class="game-term">勾結</span> in their circles so you have the opportunity to meet one of them. Once that’s accomplished, you could start a new project to form a friendly relationship.
+為了進行專案，你可能首先要完成能追求它的方法——這本身可以就是一個專案。譬如，你可能想要與「城市法院」的一名成員交朋友，但你與他沒有聯繫。你可能先進行一項專案來<span class="game-term">勾結</span>以進入他們的圈子，讓你有機會能夠遇到其中的成員。一旦這個完成，你可以開始形成友誼關係的新專案。
 
-# Recover
+# 恢復
 
-When you recover, you seek treatment and heal your harm. You might visit a physicker who can stitch your wounds and soothe your mind with anatomical science or a witch who specializes in healing charms and restorative alchemy. If you don’t have a contact or fellow PC who can provide treatment, you can use the **acquire asset** activity to gain access to a healer, who can provide ser惡習 for the whole crew.
+當你恢復，你尋求處置你的傷害。你可能拜訪可以解剖學縫起傷口並安撫心靈的治療師，或是擅長符咒和恢復性煉金術的巫師。如果你沒有聯絡人或同伴 PC 能提供處置，你可以使用**獲取資產**活動來接近一名能夠為整個幫派服務的治療者。
 
-Recovery is like a long-term project. Your healer rolls (<span class="game-term">Tinker</span> for a PC with the <span class="game-term">Physicker</span> special ability or the **品質** level of an NPC) and then you mark a number of segments on your **healing clock**. <span class="game-term">1-3:</span> one segment, <span class="game-term">4/5:</span> two segments, <span class="game-term">6:</span> three segments, <span class="game-term">critical:</span> five segments.
+恢復像是一次長期專案。你們的治療者擲骰（有<span class="game-term">醫者</span>特殊能力的 PC 擲<span class="game-term">擺弄</span>，而 NPC 擲**品質**等級），接著你在你的**治療鐘**上標注一定數量的區段。<span class="game-term">1-3：</span>一個區段，<span class="game-term">4/5：</span>兩個區段，<span class="game-term">6：</span>三個區段，<span class="game-term">關鍵：</span>五個區段。
 
-When you fill your healing clock, reduce each instance of harm on your sheet by one level, then clear the clock. If you have more segments to mark, they “roll over.”
+當你填滿你的治療鐘，你在表上的每個傷害個例都減少一個等級，並且清空鐘。如果你有更多區段可以標記，它們會「繼承」。
 
-@TODO add table p99
+<img style="width:200px;" src="/healing-project-clock.gif" />
 
-> Cross has two injuries: a level 3 “Shattered Right Leg” and level 1 “Battered.” During downtime, he gets treatment from Quellyn, a witch friend of the crew’s Whisper. Quellyn is a competent healer, so the GM says quality 2 makes sense. The player rolls 2d to recover and gets a <span class="game-term">6</span>: three segments on the healing clock. He decides to spend 1 <span class="game-term">錢幣</span> to improve the result to a <span class="game-term">關鍵</span> to get five segments instead. Four segments fill the clock—all of Cross’s harm is reduced by one level, then he clears the clock and marks one more segment. His level 3 harm “Shattered Right Leg” is reduced to level 2 harm. His level 1 harm “Battered” is reduced to zero and goes away. Cross is left with one injury on his sheet: level 2 “Broken Leg.”
+> 克羅斯有兩個傷勢：一個等級 3 的「右腳碎裂」和等級 1 的「被毆打」。在休整期間，他從幫派的「低語者」的一名巫師朋友奎林那裡得到處置。奎林是一名高明的醫療師，因此 GM 合理地將品質設置為 2。玩家擲 2d 來恢復，並得到 <span class="game-term">6</span>：:在治療鐘上三個區段。他決定花費 1 枚<span class="game-term">錢幣</span>來將結果提升到<span class="game-term">關鍵</span>來改為得到五個區段。五個區段填滿了鐘——克羅斯的所有傷害減輕一級，接著他清除了鐘，並再標注一個區段。他的等級 3 傷害「右腳碎裂」減輕成等級 2 傷害。他的等級 1 傷害「被毆打」減輕到零並且消失。克羅斯在他的卡上留下：等級 2「腿骨折」。
 
-You may heal yourself if you have the <span class="game-term">Physicker</span> special ability, but you take 2 stress when you do so. You can also choose to simply tough it out and attempt to heal without any treatment—in this case, take 1 stress and roll 0d.
+如果你有<span class="game-term">醫者</span>特殊能力，你可以治療自己，但當你這麼做，你會得到 2 點壓力。你也可以選擇硬著頭皮治療他而不作任何處置——在這情況下，得到 1 壓力，並且擲 0d。
 
-Note that it’s the recovering character that takes the recovery action. Healing someone else does not cost a downtime activity for the healer.
+注意是恢復的角色進行恢復行動。治療別人的治療者不需要花費休整活動。
 
-Whenever you suffer new harm, clear any ticks on your healing clock.
+當你承受新的傷害時，清除所有你在治療鐘上的倒數。
 
-# Reduce heat
+# 減輕盯迫
 
-Say what your character does to reduce the <span class="game-term">追緝</span> level of the crew and make an action roll. Maybe you <span class="game-term">勾結</span> with your friend who’s a officer and she arranges for a few incriminating Watch reports to disappear. Or maybe you <span class="game-term">命令</span> the fear of the local citizens so they’re afraid to snitch.
+說你的角色做什麼來減輕幫派的<span class="game-term">盯迫</span>等級並進行行動骰。或許你<span class="game-term">勾結</span>你的警官朋友，讓她處理掉一些「城衛」的罪證報告。或是可能你<span class="game-term">命令</span>市民，讓他們恐懼到不敢告密。
 
-Reduce <span class="game-term">追緝</span> according to the result: <span class="game-term">1-3:</span> one, <span class="game-term">4/5:</span> two, <span class="game-term">6:</span> three, <span class="game-term">critical:</span> five.
+根據結果來減少<span class="game-term">盯迫</span>：<span class="game-term">1-3：</span>一，<span class="game-term">4/5：</span>二，<span class="game-term">6：</span>三，<span class="game-term">關鍵：</span>五。
 
-# Train
+# 訓練
 
-When you spend time in training, **mark 1 xp** on the xp track for an **attribute** or **遊玩書** advancement. If you have the appropriate crew Training upgrade unlocked, mark **+1 <span class="game-term"> </span>xp** (2 total). See **Crew Upgrades**, page <a>65</a>. _You can train a given xp track only once per downtime._
+當你花費時間在訓練上，在你的**屬性**或**遊玩書**成長軌上**標注 1 xp**。如果你們解鎖了合適的幫派「訓練」升級，標注 **+1 xp**（總共 2）。 _每次休整你只能訓練一個給定的 xp 軌。_
 
-# Indulge 惡習
+# 沈溺惡習
 
-Visit your **惡習 purveyor** to relieve **stress**. See the next section for details.
+拜訪你得**惡習供應者**來緩解**壓力**。細節請見下一小節。

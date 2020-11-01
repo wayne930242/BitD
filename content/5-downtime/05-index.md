@@ -4,37 +4,45 @@ metaTitle: ""
 metaDescription: ""
 ---
 
-@TODO add table p101
+# 壓力緩解
 
-# Stress Relief
+你們的角色是特別的傢伙。他們蔑視當權，膽敢劫掠被認為是他們大佬的人。他們讓自己走得比凡人期待的更遠。然而這是有代價的。他們的生活滿佈壓力。無奈之下，他們都投往了**惡習**的誘惑。
 
-Your characters are a special lot. They defy the powers-that-be and dare to prey on those who are considered to be their betters. They push themselves further than ordinary people are willing to go. But this comes at a cost. Their life is one of constant stress. Inevitably, each turns to the seduction of a **惡習** in order to cope.
+角色的惡習乃是他的癡迷。但這種沈溺帶來了壓力的緩解，讓他們有能力面對大膽生活的壓倒性挑戰。
 
-A character’s 惡習 is their obsession. But with this indulgence comes relief from stress and the ability to once again face the overwhelming challenge of their daring life.
+---
 
-# Indulging Your 惡習
+> ## 惡習
+> 
+> * 擲等同於你的<strong>最低屬性</strong>評等的骰子。
+> 
+> 清除等同於你的最高骰結果的壓力。如果你要清除的壓力等級超過你所標注的，你<strong>過度沈溺</strong>。如果你沒有或無法在休整時沉溺於你的惡習，你得到等同於你的<strong>創傷</strong>的壓力。
 
-When you indulge your 惡習, you clear some stress from your character’s stress track. Say how your character indulges their 惡習, including which **purveyor of 惡習** they use to satisfy their needs.  This indulgence takes time, so it can only be done when the crew has **downtime**. Alternately, you may choose to release your character to be “lost in their 惡習” during a game session, allowing them to indulge off-camera while you play a different PC. A gang member, friend, or contact of the crew might be created as an alternate character to play, thus fleshing out the landscape of PCs.
+---
 
-You roll to find out how much stress relief your character receives. A 惡習 roll is like a resistance roll in reverse—rather than gaining stress levels, you clear stress levels. The effectiveness of your indulgence depends upon your character’s worst attribute rating. It’s their weakest quality (<span class="game-term">洞察</span>, <span class="game-term">匿蹤</span>, or <span class="game-term">決心</span>) that is most in thrall to 惡習.
+# 沈溺你的惡習
 
-Make an **attribute roll** using your character’s lowest attribute rating (if there’s a tie, that’s fine—simply use that rating). **Clear stress equal to the highest die result.**
+當你沉溺於你的惡習，你從角色卡追蹤格上清除一些壓力。說你的角色如何沉溺於他的惡習，包括使用哪位**惡習供應者**滿足他的需要。沈溺需要時間，所以只能在幫派**休整**時完成。或者，你可以選擇讓角色在遊戲聚會中「迷失於他的惡習」，當你扮演另一名 PC 的時候在幕後沈溺惡習。可以將一名團夥同伴、朋友、或幫派的聯絡人創造成替代角色，來讓 PC 的格局更加豐滿。
 
-## Overindulgence
+你擲骰來看你的角色得到多少壓力的緩解。惡習骰就像是抵抗骰的相反——不是增加壓力等級，而是清除它。你角色沈溺的效果取決於角色的最低屬性評等。最弱的品質（<span class="game-term">洞察</span>、<span class="game-term">匿蹤</span>、或<span class="game-term">決心</span>）被惡習綁得最緊。
 
-If your 惡習 roll clears more stress levels than you had marked, you overindulge. A 惡習 is not a reliable, controllable habit. It’s a risk—and one that can drive your character to act against their own best interests.
+使用你角色的最低屬性評等進行**屬性骰**（如果平手，沒關係——用那個就對了）。**清除等同於最高骰結果的壓力。**
 
-When you overindulge, you make a bad call because of your 惡習—in acquiring it or while under its influence. To bring the effect of this bad decision into the game, select an overindulgence from the list:
+## 過度沈溺
 
-* <span class="game-term">Attract Trouble.</span> Select or roll an additional **entanglement**.
-* <span class="game-term">Brag</span> about your exploits. **+2** <span class="game-term">追緝</span>.
-* <span class="game-term">Lost.</span> Your character vanishes for a few weeks. Play a different character until this one returns from their bender. When your character returns, they’ve also healed any harm they had.
-* <span class="game-term">Tapped.</span> Your current purveyor cuts you off. Find a new source for your 惡習.
+如果你的惡習骰清除的壓力等級超過你所標記的，你過度沈溺。惡習不是可靠的、可控的習慣。而是有風險的——能讓角色的行動違反他們的最佳利益。
 
-## Ignoring your 惡習
+當你過度沈溺，你因惡習——在獲取它時或在它的影響下——做出一個壞決定。將壞決定的效果帶到遊戲中，選擇下表的一項過度沈溺：
 
-If you do not or cannot indulge your 惡習 during a downtime phase, you take stress equal to your <span class="game-term">創傷</span>. If you don’t have any <span class="game-term">創傷</span>, you’re free to ignore your 惡習. It doesn’t have a hold over you (yet).
+* <span class="game-term">引來麻煩。</span>選擇或擲一個額外的<strong>糾纏</strong>。
+* <span class="game-term">吹噓</span>你們的豐功偉業。<strong>+2</strong> <span class="game-term">盯迫</span>。
+* <span class="game-term">失蹤。</span>你的角色消失幾週。扮演另外一個角色直到這個傢伙從狂歡中回來。當你的角色回來，他們也治癒了他們所有的傷害。
+* <span class="game-term">限阻。</span>你當前的供應者切斷了你的供應。選擇你惡習的新來源。
 
-## Roleplaying &amp; XP
+## 無視你的惡習
 
-Along with your character’s heritage and background, their 惡習 tells us what kind of person they are. This obsession impacts their motivations, goals, and behavior. When you ponder what your character might do or say next, you can always consider their 惡習 to help you think of something. As an added benefit, by playing to the nature of your character’s 惡習, you earn xp at the end of the session.
+如果你在休整階段，沒有或無法沈溺於你的惡習，你得到等同於你的<span class="game-term">創傷</span>的壓力。如果你沒有創傷，你可以自由忽視你的惡習。它（尚）未僅僅抓牢你。
+
+## 角色扮演與 xp
+
+除了你角色的繼承與背景，他的惡習也告訴我們他是哪種人。這個癡迷影響了他的動機、目標和行為。在你思考你的角色接下來該說或該說之事時，你可以總是考慮他的惡習來協助思考。額外的好處是，如果你的扮演符合你角色的惡習的本性，你在聚會結束時獲取 xp。

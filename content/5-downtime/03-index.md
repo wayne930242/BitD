@@ -1,73 +1,75 @@
 ---
-title: "糾纏"
+title: "糾葛"
 metaTitle: ""
 metaDescription: ""
 ---
 
-Your crew didn’t just spring into existence tonight. You have a complex history of favors, commitments, debts, and promises that got you where you are today. To reflect this, after each score, you roll dice to find out which **entanglement** comes calling. An entanglement might be a rival crew looking to throw their weight around (and demand some <span class="game-term">錢幣</span>), an Investigator of the City Watch making a case against your crew (but ready for a bribe), or even the attention of a vengeful ghost.
+你們幫派不會今晚才突然碰地出現。你們有複雜的歷史，關於讓你們今天在這裡的恩惠、義務、債務和承諾。為反應這個，每次案件之後，你們擲骰來看是哪種**糾葛**發生。糾葛可能是敵方的幫派將重心放到這裡（並要求一些<span class="game-term">錢幣</span>）、「城衛（City Watch）」的一名「調查員」啟動了對你們幫派的調查（但是已經準備好接受賄賂），或甚至是怨靈的注意。
 
-After payoff and <span class="game-term">追緝</span> are determined, the GM generates an entanglement for the crew using the lists below. Find the column that matches the crew’s current <span class="game-term">追緝</span> level. Then roll a number of dice equal to their <span class="game-term">wanted level</span>, and use the result of the roll to select which sort of entanglement manifests. _If <span class="game-term">wanted level</span> is zero, roll two dice and keep the lowest result._
+在回報和<span class="game-term">盯迫</span>決定好以後，GM 使用下表來為幫派生成一次糾葛。找到符合幫派當前<span class="game-term">盯迫</span>等級的欄位。接著骰等同於他們的<span class="game-term">通緝等級</span>的骰子，用擲骰結果來選擇糾葛展現的種類。 _如果<span class="game-term">通緝等級</span>為零，擲兩顆骰並保留最低的那個。_
 
-@TODO add table p94
+<img src="/heat-table-1.png" style="width:30%;padding:1.5%;min-width:200px;" />
+<img src="/heat-table-2.png" style="width:30%;padding:1.5%;min-width:200px;" />
+<img src="/heat-table-3.png" style="width:30%;padding:1.5%;min-width:200px;" />
 
-Bring the entanglement into play immediately, or hold off until an appropriate moment. For example, if you get the _Interrogation_ entanglement, you might wait until a PC indulges their 惡習, then say the costables picked them up when they were distracted by its pleasures.
+將糾葛立刻放到場上，或是保留到合適的時機。譬如，如果你得到 _審問_ 糾葛，你可以等到一個 PC 沉溺於他們的惡習時，然後說在他因歡愉而分心時，員警逮到了他。
 
-Entanglements manifest fully before the PC 們have a chance to avoid them. When an entanglement comes into play, describe the situation after the entanglement has manifested. The PC 們deal with it from that point—they can’t intercept it and defuse it before it happens. The purpose of the mechanic is to abstract a lot of the complex stuff happening in the backgrounds of the characters’ lives in order to generate trouble for them. Entanglements are the cost of doing business in the underworld—a good crew learns to roll with the punches and pick their battles.
+在糾葛完全展現出來以前，PC 們有機會避免它們。當糾葛要進場時，描述糾葛已經展現出來後的情況。PC 們在此時處理它——他們無法在它發生以前攔截和化解它。該機制的目的，是為了抽象發生在角色生活背景中的許多複雜東西，以為他們製造麻煩。糾葛是在黑社會中進行事業的代價——一個好幫派會學習克服一連串難關，並選擇他們的戰鬥。
 
-The entanglements are detailed on the following pages. Each has a list of potential ways for the PC 們to be rid of it. If you want the entanglements to be a momentary problem for the crew, stick to the suggested methods to resolve them, and move on to the next part of downtime. If you want to dive in and explore the entanglement in detail, set the scene and play out the event in full, following the actions and consequences where they lead.
+這些糾葛在下面詳細列出。每個都有 PC 們擺脫它的潛在方法列表。如果你想讓糾葛對幫派來說只是暫時的問題，就堅持在建議解決方法，然後進入接下來的休整。如果你想深入探索糾葛的細節，就設置好場景，並將事件完整地演繹出來，按照行動和後果的走向來進行。
 
-# Arrest
+# 逮捕
 
-An Inspector presents a case file of evidence to a magistrate, to begin prosecution of your crew. They send a detail to arrest you (a gang at least equal in **scale** to your <span class="game-term">wanted level</span>). Pay them off with <span class="game-term">錢幣</span> equal to your <span class="game-term">wanted level</span> +3, hand someone over for arrest (this clears your <span class="game-term">追緝</span>), or try to evade capture.
+檢察官向法官呈上了案卷，開始起訴你們的幫派。他們派人去逮捕起們（一幫至少**規模**等同於你們的<span class="game-term">通緝等級</span>的人。）收買他們的<span class="game-term">錢幣</span>等同於你們的<span class="game-term">通緝等級</span> +3，否則就要讓某人被逮捕（這會清除你們的<span class="game-term">盯迫</span>），不然就嘗試逃亡。
 
-> A truncheon bangs on the shutters of the window. “Alright then! Come on out and let’s go quietly now!” It sounds like the bald Sergeant. When you peek out, you see a detail of about twenty constables, all geared up for a fight. The Sergeant mumbles under his breath, so only you inside can hear: “Or perhaps I have the wrong address?” He clears his throat and waits for some coin to appear.
+> 一把警棍敲打著窗戶的百葉窗。「好！出來吧，安靜跟我走!」聽起來像是光頭「警佐」的聲音。當你探出頭來時，你看到大約二十名警員，他們都準備好了戰鬥。警佐在口中喃喃自語，所以只有你在裡面能聽到：「還是我搞錯了地址？」他清了清嗓子，等待一些錢幣出現。
 
-# Cooperation
+# 合作
 
-A +3 status faction asks you for a favor. Agree to do it, or forfeit 1 <span class="game-term">名望</span> per 層級 of the friendly faction, or lose **1 status** with them. If you don’t have a +3 faction status, you avoid entanglements right now.
+一個 +3 地位的派系要求你提供好處。同意要求，或是為友好派系的每個層級喪失 1 點<span class="game-term">rep</span>，或是失去對他們的 **1 地位**。如果你們沒有 +3 的派系地位，你們暫時避免糾纏。
 
-# Demonic notice
+# 惡魔注意
 
-A demon approaches the crew with a dark offer. Accept their bargain, hide until it loses interest (forfeit<span class="game-term"> </span>3 <span class="game-term">名望</span>), or deal with it another way.
+一名惡魔接近幫派，帶來黑暗的提案。接受他的議案、隱藏起來直到他失去興趣（喪失<span class="game-term"> 3 rep</span>）、或以其他方式處理它。
 
-# Flipped
+# 翻轉
 
-One of the PCs’ rivals arranges for one of your contacts, patrons, clients, or a group of your customers to switch allegiances due to the <span class="game-term">追緝</span> on you. They’re loyal to another faction now.
+PC 們的一名敵手為你們的一名聯絡人、雇主、客戶或主顧的團體動手腳，讓他們因為你們的<span class="game-term">盯迫</span>而起了異心。他現在向其他派系效忠。
 
-# Gang trouble
+# 團夥麻煩
 
-One of your gangs (or other cohorts) causes trouble due to their flaw(s). You can lose face (forfeit<span class="game-term"> rep</span> equal to your 層級 +1), make an example of one of the gang members, or face reprisals from the wronged party.
+你們的團夥（或其他同伴）之一因為他們的缺陷帶來了麻煩。你們可以失去面子（喪失等同於你們的層級 +1 的<span class="game-term">rep</span>）、拿一名團夥成員殺雞儆猴、或面對被錯待的那幫人的報復。
 
-# Interrogation
+# 審問
 
-The officers round up one of the PC 們to question them about the crew’s crimes. _How did they manage to capture you?_ Either pay them off with 3 <span class="game-term">錢幣</span>, or they beat you up (**level 2 harm**) and you tell them what they want to know (**+3** <span class="game-term">追緝</span>). You can **resist** each of those consequences separately.
+警官抓來一名 PC 來詢問關於幫派的罪行。_他們如何安排捕捉？_ 要嘛付給他們 3 <span class="game-term">錢幣</span>，要嘛他們會痛打你（**等級 2 傷害**）並且告訴他們他們想知道的（**+3** <span class="game-term">盯迫</span>）。你可以分別**抵抗**那些後果。
 
-> Some players really hate it when their character gets captured! Just tell them that this is completely normal for a scoundrel of the underworld. You spend time in and out of jail, getting questioned and harassed by the law. It’s not the end of the world. But now that you’re here in the interrogation room, what kind of person are you? Do you talk? Do you stand up to them? Do you make a deal?
+> 有些玩家真的很討厭自己的角色被抓！但要告訴他們，這對於黑社會的惡棍來說是完全正常的。你花時間出入監獄、受到法律詢問和騷擾。這不是世界末日。但現在你在審訊室裡，你是什麼樣的人？你會談話嗎？你會強碰他們嗎？還是會做個交易？
 
-# Questioning
+# 詢問
 
-The cops grab an NPC member of your crew or one of the crew’s contacts, to question them about your crimes. _Who do they think is most vulnerable?_ Make a **fortune roll** to see how much they talk (<span class="game-term">1-3:</span> **+2** <span class="game-term">追緝</span>, <span class="game-term">4/5:</span> **+1** <span class="game-term">追緝</span>), or pay the constables off with 2 <span class="game-term">錢幣</span>.
+條子抓住了一名你們幫派的 NPC 成員或聯絡人，詢問他們你們的罪行。 _他們認為最脆弱的是誰？_ 做一個**運氣骰**來看他們說了多少（<span class="game-term">1-3：</span> **+2** <span class="game-term">盯迫</span>，<span class="game-term">4/5：</span> **+1** <span class="game-term">盯迫</span>)，或用 2 枚錢幣<span class="game-term">錢幣</span>買通官員。
 
->Roll 2d for a normal person to see how well they keep quiet. If they’re an experienced underworld type or some kind of tough, give them 3d or 4d instead. If they’re soft or if they have some loyalty to the law, give them 1d or 0d.
+> 位一個普通人擲 2d 來看他們能多安靜。如果他是有經驗的那種黑社會或比較堅強的，改給他 3d 或 4d。如果他很軟弱、或是稍微忠於法律，給他 1d 或 0d。
 
-# Reprisals
+# 得到報復
 
-An enemy faction makes a move against you (or a friend, contact, or 惡習 purveyor). Pay them (1 <span class="game-term">名望</span> and 1 <span class="game-term">錢幣</span>) per 層級 of the enemy as an apology, allow them to mess with you or yours, or fight back and show them who’s boss.
+一個敵方派系對你們（或一名朋友、聯絡人、或惡習供應者）採取了行動。向敵人道歉（為每個敵人層級付出 1 點<span class="game-term">rep</span>和 1 枚<span class="game-term">錢幣</span>）、允許他們折磨你或你們的人、或用拳頭告訴他們誰是老大。
 
-# Rivals
+# 競爭對手
 
-A neutral faction throws their weight around. They threaten you, a friend, a contact, or one of your 惡習 purveyors. Forfeit (1 <span class="game-term">名望</span> or 1 <span class="game-term">錢幣</span>) per 層級 of the rival, or stand up to them and lose **1 status**<span class="game-term"> </span>with them.
+一個中立的派系將他們的重心放過來。他們威脅你們、或朋友、或聯絡人、或你的惡習供應者。為敵人的每個層級喪失 1 點<span class="game-term">rep</span>或 1 枚<span class="game-term">錢幣</span>、或反抗他們並失去對他們的 **1 地位**。
 
-# Show of force
+# 力量展示
 
-A faction with whom you have a negative status makes a play against your holdings. Give them 1 **claim** or go to war (drop to -3 status). If you have no claims, **lose 1 hold** instead.
+一個你們有負地位的派系對你們的地盤動手動腳。給他們 1 項**權利**或是與他們開戰（降到 -3 地位）。如果你們沒有權利，改為**失去 1 塊地盤**。
 
-# Unquiet dead
+# 不平死亡
 
-A rogue spirit is drawn to you—perhaps it’s a past victim? Acquire the ser惡習s of an occultist to attempt to destroy or banish it, or deal with it yourself.
+一個遊蕩者的鬼魂被吸引到你身——也許他是過去的受害者？尋求神秘學家的服務來試圖摧毀或驅逐它、或你自己處理它。
 
-> They can hire an NPC by using the <span class="game-term">acquire asset</span>_ downtime activity. Roll the NPC’s quality level as a fortune roll to see how well they deal with the spirit.
+> 他們可以使用<span class="game-term">獲取資產</span>休整活動來雇用一名 NPC。擲該 NPC 的品質等級作為運氣骰來看他們的除靈做得多好。
 
-# The usual suspects
+# 一般嫌疑
 
-The cops grab someone in the periphery of your crew. One player volunteers a friend or 惡習 purveyor as the person most likely to be taken. Make a **fortune roll** to find out if they resist questioning (<span class="game-term">1-3</span>: **+2 **<span class="game-term">追緝</span>**, **4/5:** level 2 harm**), or pay them off with 1 <span class="game-term">錢幣</span>.
+條子在你們團隊的外圍抓人。玩家推舉一個朋友或惡習供應者作為最可能被逮到的人。進行一次**運氣骰**來看他們是否有辦法抵抗詢問（<span class="game-term">1-3</span>：**+2 <span class="game-term">盯迫</span>**，<span class="game-term">4/5</span>：<strong> 2 級傷害</strong>）或是付出 1 枚<span class="game-term">錢幣</span>。

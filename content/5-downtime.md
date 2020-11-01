@@ -14,8 +14,8 @@ metaDescription: ""
 休整分成四個部分，依序解決：
 
 1. <span class="game-term">回報。</span>幫派從成功完成的案件中得到他們的獎賞。
-2. <span class="game-term">追緝。</span>從上次案件的結果中，幫派從城市的法律和當權累積了嫌疑和關注。
-3. <span class="game-term">糾纏。</span>幫派面對來自敵對派系、法律和鬧鬼的城市自身的麻煩。
-4. <span class="game-term">休整活動。</span>PC 們沉溺於惡習來移除壓力、長期方案、從損傷中回復等。
+2. <span class="game-term">盯迫。</span>從上次案件的結果中，幫派從城市的法律和當權累積了嫌疑和關注。
+3. <span class="game-term">糾葛。</span>幫派面對來自敵對派系、法律和鬧鬼的城市自身的麻煩。
+4. <span class="game-term">休整活動。</span>PC 們沉溺於惡習來移除壓力、長期專案、從損傷中回復等。
 
 當休整活動結束後，遊戲回到自由遊玩模式，團體可以開始朝下個案件移動。

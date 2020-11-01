@@ -27,26 +27,26 @@ metaDescription:
 
 # 發展
 
-要爬升並發展你們的幫派，你需要<span class="game-term">名望（rep）</span>。<span class="game-term">名望</span>是權勢和聲望的單位。當你們累積足夠的<span class="game-term">名望</span>，其他派系會更嚴肅地看待你們，你們也會吸引發展和成長所需要的支持。
+要爬升並發展你們的幫派，你需要<span class="game-term">rep（名望）</span>。<span class="game-term">rep</span>是權勢和聲望的單位。當你們累積足夠的<span class="game-term">rep</span>，其他派系會更嚴肅地看待你們，你們也會吸引發展和成長所需要的支持。
 
-當你們完成一次案件，你們的幫派會賺到 **2** <span class="game-term">名望</span>。如果案件的標的層級比你們高，每個更高層級你們得到 **+1** <span class="game-term">名望</span>。如果案件的標的層級更低，每個更低層級你們得到 **-1** <span class="game-term">名望</span>（最小為零）。
+當你們完成一次案件，你們的幫派會賺到 **2** <span class="game-term">rep</span>。如果案件的標的層級比你們高，每個更高層級你們得到 **+1** <span class="game-term">rep</span>。如果案件的標的層級更低，每個更低層級你們得到 **-1** <span class="game-term">rep</span>（最小為零）。
 
-你們需要 **12** <span class="game-term">名望</span>來填滿幫派卡上的<span class="game-term">名望</span>軌。當你們填滿名望軌，進行下列之一：
+你們需要 **12** <span class="game-term">rep</span>來填滿幫派卡上的<span class="game-term">rep</span>軌。當你們填滿rep軌，進行下列之一：
 
-* 如果你們的凝聚是弱，它會變得強。將你們的<span class="game-term">名望</span>**重置到零**。
-* 如果你們的凝聚是強，你可以花錢來提升一級你們的幫派層級。該花費的<span class="game-term">錢幣</span>等同於你們的**新層級 x 8**。只要你的們<span class="game-term">名望</span>軌是滿的，你們就不會得到新的<span class="game-term">名望</span>（12 是最大值）。一旦你們花費並且提升你們的層級，將你們的<span class="game-term">名望</span>**重置到零**並且將**凝聚降低到弱**。
+* 如果你們的凝聚是弱，它會變得強。將你們的<span class="game-term">rep</span>**重置到零**。
+* 如果你們的凝聚是強，你可以花錢來提升一級你們的幫派層級。該花費的<span class="game-term">錢幣</span>等同於你們的**新層級 x 8**。只要你的們<span class="game-term">rep</span>軌是滿的，你們就不會得到新的<span class="game-term">rep</span>（12 是最大值）。一旦你們花費並且提升你們的層級，將你們的<span class="game-term">rep</span>**重置到零**並且將**凝聚降低到弱**。
 
 # 地盤
 
-另一種對幫派發展有貢獻的方法是獲取**地盤（turf）**。當你們掌握領地，你們就為<span class="game-term">名望</span>建立了穩固的基礎。每片你們擁有權利的地盤代表對幫派的壟統支持（往往是你們給該地盤居民灌輸的恐懼所造成的）。
+另一種對幫派發展有貢獻的方法是獲取**地盤（turf）**。當你們掌握領地，你們就為<span class="game-term">rep</span>建立了穩固的基礎。每片你們擁有權利的地盤代表對幫派的壟統支持（往往是你們給該地盤居民灌輸的恐懼所造成的）。
 
-地盤由你們的<span class="game-term">名望</span>軌所標記（見下面例子）。你們掌握的每片地盤地盤會讓發展時所需的<span class="game-term">名望</span>花費減少一。因此，如果你們有 2 地盤，你們在發展時只需要 10 <span class="game-term">名望</span>。如果你們有 4 地盤，你們在發展時只需要 8 <span class="game-term">名望</span>。**你最多可以握有 6 地盤。**當你們發展並且重置你們的<span class="game-term">名望</span>時，**你保留所有你握有的地盤的標記。**
+地盤由你們的<span class="game-term">rep</span>軌所標記（見下面例子）。你們掌握的每片地盤地盤會讓發展時所需的<span class="game-term">rep</span>花費減少一。因此，如果你們有 2 地盤，你們在發展時只需要 10 <span class="game-term">rep</span>。如果你們有 4 地盤，你們在發展時只需要 8 <span class="game-term">rep</span>。**你最多可以握有 6 地盤。**當你們發展並且重置你們的<span class="game-term">rep</span>時，**你保留所有你握有的地盤的標記。**
 
 > <img style="width:40%;min-width:300px;padding:20px" src="/2020/08/28/blades-in-the-dark-srd/turf.gif" />
 > 
-> 如果你握有 3 片地盤，你只需要 9 **名望**來發展，而不是 12 。
+> 如果你握有 3 片地盤，你只需要 9 **rep**來發展，而不是 12 。
 > 
-> 當你發展，你清空 9 **名望**標記，但保留 3 地盤標記。將地盤標在右側來展示發展所需的**名望**上限。
+> 當你發展，你清空 9 **rep**標記，但保留 3 地盤標記。將地盤標在右側來展示發展所需的**rep**上限。
 
 同時，當你獲取地盤，你的幫派的**獵場**的規模也得到擴張。
 
@@ -76,7 +76,7 @@ metaDescription:
 * **0：中立。**
 * **-1：擾亂。**只要不會造成問題或太多花費，該派系會找機會為你們帶來麻煩（或從你們的不幸中得利）。他們對你也如此預期。
 * **-2：敵對。**該派系會傷害你們，只要這不會為他們帶來麻煩。他們對你們也如此預期，並且對你們有所防備。
-* **-3：戰爭。**該派系會傷害你們，即便這不符合他們的最佳利益。他們對你們也如此預期，並且對你們有所防備。當你們與任何數量的派系在戰爭中，你們的幫派從案件承受的<span class="game-term">追緝</span> +1、暫時失去 1 凝聚、PC 們只能進行一次休整行動，而非兩次。你們可以透過消滅敵人或協商一次互惠協議來建立新的地位評等。
+* **-3：戰爭。**該派系會傷害你們，即便這不符合他們的最佳利益。他們對你們也如此預期，並且對你們有所防備。當你們與任何數量的派系在戰爭中，你們的幫派從案件承受的<span class="game-term">盯迫</span> +1、暫時失去 1 凝聚、PC 們只能進行一次休整行動，而非兩次。你們可以透過消滅敵人或協商一次互惠協議來建立新的地位評等。
 
 > 如果你們在進入戰爭前凝聚是弱的，暫時的失去寧去會讓你們失去一個層級。當戰爭結束，將你們的層級恢復到戰前等級。
 

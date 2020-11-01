@@ -4,13 +4,13 @@ metaTitle: ""
 metaDescription: ""
 ---
 
-再一次案件之後，PC 們從任務行動中收穫收入。成功的案件會同時產生<span class="game-term">名望</span>和<span class="game-term">錢幣</span>。
+再一次案件之後，PC 們從任務行動中收穫收入。成功的案件會同時產生<span class="game-term">rep</span>和<span class="game-term">錢幣</span>。
 
-幫派預設從每次案件賺得 2 <span class="game-term">名望</span>。如果案件標的的層級比你要高層級，**每高一層級**得到 **+1 <span class="game-term">名望</span>**。如果案件標的的層級較低，**每低一層級**得到 **-1 <span class="game-term">名望</span>**（最低為零）。
+幫派預設從每次案件賺得 2 <span class="game-term">rep</span>。如果案件標的的層級比你要高層級，**每高一層級**得到 **+1 <span class="game-term">rep</span>**。如果案件標的的層級較低，**每低一層級**得到 **-1 <span class="game-term">rep</span>**（最低為零）。
 
-> 如果你們的幫派為層級 I，而你在對抗層級 III 標的的案件中取得成功，你賺得 4 <span class="game-term">名望</span>（2 <span class="game-term">名望</span>，因為比你高兩層級而 +2 <span class="game-term">名望</span>）。如果你們的幫派為層級 III，而你完成了對抗層級 I 標的的案件，你賺得 0 <span class="game-term">名望</span>（2 <span class="game-term">名望</span>，因為低層級 -2 <span class="game-term">名望</span>）。
+> 如果你們的幫派為層級 I，而你在對抗層級 III 標的的案件中取得成功，你賺得 4 <span class="game-term">rep</span>（2 <span class="game-term">rep</span>，因為比你高兩層級而 +2 <span class="game-term">rep</span>）。如果你們的幫派為層級 III，而你完成了對抗層級 I 標的的案件，你賺得 0 <span class="game-term">rep</span>（2 <span class="game-term">rep</span>，因為低層級 -2 <span class="game-term">rep</span>）。
 
-如果你們讓任務行動無聲無息，因此無人知曉，你們賺得零<span class="game-term">名望</span>。在<span class="game-term">名望</span>追蹤軌上標注名望。
+如果你們讓任務行動無聲無息，因此無人知曉，你們賺得零<span class="game-term">rep</span>。在<span class="game-term">rep</span>追蹤軌上標注rep。
 
 幫派賺得的<span class="game-term">錢幣</span>根據任務行動的本性和/或他們所掌握的戰利品：
 

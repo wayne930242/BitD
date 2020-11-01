@@ -6,7 +6,7 @@ metaDescription:
 
 **進度鐘**是以區段區分的圓（範例如下）。當你們需要追蹤持續的努力來對抗阻礙或追蹤緊逼而來的麻煩時，畫一個進度鐘。
 
- <img style="width:10%;min-width:150px;padding:4%;display:inline-block" src="/clock4.png" /><img style="width:10%;min-width:150px;padding:4%;display:inline-block;" src="/clock6.png" /><img style="width:10%;padding:4%;min-width:150px;display:inline-block;" src="/clock8.png" />
+ <img style="width:10%;min-width:150px;padding:4%;display:inline-block" src="/BitD/clock4.png" /><img style="width:10%;min-width:150px;padding:4%;display:inline-block;" src="/BitD/clock6.png" /><img style="width:10%;padding:4%;min-width:150px;display:inline-block;" src="/BitD/clock8.png" />
 
 _溜進警察的哨站？畫一個鐘追蹤巡邏守衛的警戒等級。當 PC 們遭到部分成功或失敗的後果時，倒數鐘上的區段，直到警報響起。_
 

@@ -37,7 +37,7 @@ metaDescription:
 
 每個屬性的評等等同於在屬性下面的**第一直欄**的黑點數目。你的角色在該行動組越完整，他的屬性評等就越好。
 
- <img style="width:25%;padding:4%;display:inline-block" src="/insight.png" /><img style="width:25%;padding:4%;display:inline-block;" src="/prowess.png" /><img style="width:25%;padding:4%;display:inline-block;" src="/resolve.png" />
+ <img style="width:25%;padding:4%;display:inline-block" src="/BitD/insight.png" /><img style="width:25%;padding:4%;display:inline-block;" src="/BitD/prowess.png" /><img style="width:25%;padding:4%;display:inline-block;" src="/BitD/resolve.png" />
 
 # 抵抗骰
 

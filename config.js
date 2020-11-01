@@ -1,8 +1,8 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
-    siteUrl: 'https://wayneh.tw/blades-in-the-dark-srd',
-    gaTrackingId: null,
+    pathPrefix: '/BitD',
+    siteUrl: 'https://wayneh.tw/BitD',
+    gaTrackingId: 'G-9X9YXXL8X6',
     trailingSlash: false,
   },
   header: {
@@ -10,7 +10,7 @@ const config = {
     logoLink: '/',
     title:
       '',
-    githubUrl: 'https://github.com/wayne930242/blades-in-the-dark-srd/',
+    githubUrl: 'https://github.com/wayne930242/BitD/',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -57,13 +57,13 @@ const config = {
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='/'>暗夜冷鋒 SRD</a>",
+      "<a href='https://wayneh.tw/BitD'>暗夜冷鋒 SRD</a>",
   },
   siteMetadata: {
     title: '暗夜冷鋒 SRD',
     description: '由洪偉所翻譯的暗夜冷鋒（Blades in the Dark）SRD。',
     ogImage: 'https://i.imgur.com/kWXFA73.png',
-    docsLocation: 'https://github.com/wayne930242/blades-in-the-dark-srd/tree/master/content',
+    docsLocation: 'https://github.com/wayne930242/BitD/tree/master/content',
     favicon: 'https://i.imgur.com/QZNWWVw.png',
   },
   pwa: {

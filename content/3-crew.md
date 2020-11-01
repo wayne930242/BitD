@@ -91,7 +91,7 @@ metaDescription: ""
 
 <p><span class="game-term">巢穴保全：</span>你們的巢穴有阻撓入侵者的鎖、警報、和陷阱。第二次升級可以改善來防禦能對抗靈體的奧術方法。 <em>如果這些措施受到考驗，你們能擲你們的幫派層級，來看它們能多好地阻撓入侵者。</em></p>
 
-<p><span class="game-term">訓練：</span>如果你們有「訓練」升級，當你們在休整時訓練時得到 2 xp（而非 1 xp）（<span class="game-term">洞察</span>、<span class="game-term">匿蹤</span>、<span class="game-term">決心</span>或遊玩書 xp）。這個升級能根本上讓你們成長得更為快速。請見<a href="/2020/08/28/blades-in-the-dark-srd/#成長"><b>成長</b></a>。 <em>如果你們有「洞察訓練」，當你在休整期間受訓「洞察」時，你在<span class="game-term">洞察</span>追蹤上標記 2 xp（而非 2）。如果你們有「遊玩書訓練」，當你受訓時，你在遊玩書上標記 2 xp。</em></p>
+<p><span class="game-term">訓練：</span>如果你們有「訓練」升級，當你們在休整時訓練時得到 2 xp（而非 1 xp）（<span class="game-term">洞察</span>、<span class="game-term">匿蹤</span>、<span class="game-term">決心</span>或遊玩書 xp）。這個升級能根本上讓你們成長得更為快速。請見<a href="/2020/08/28/BitD/#成長"><b>成長</b></a>。 <em>如果你們有「洞察訓練」，當你在休整期間受訓「洞察」時，你在<span class="game-term">洞察</span>追蹤上標記 2 xp（而非 2）。如果你們有「遊玩書訓練」，當你受訓時，你在遊玩書上標記 2 xp。</em></p>
 
 <p><span class="game-term">儲藏室：</span><span class="game-term"> </span>你們的巢穴有一間儲藏室，將你們的儲藏上限提高到 8 <span class="game-term">錢幣</span>。第二次升級將儲藏上限提升到 16。你們的儲藏室分離的部分可以作為保管室使用。</p>
 

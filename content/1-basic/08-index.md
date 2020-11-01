@@ -44,7 +44,7 @@ metaDescription:
 
 如果你必須標記一個傷害等級，但該列已經被填滿了，該傷害會被移到更上方一列。因此，如果你遭受標準傷害（等級 2），但在第二列已經沒有空間了，你必須改為紀錄嚴重傷害（等級 3）。如果你頂列已經沒空間了，並且必須在那裡標記，你的角色遭受**災難性、永久後果**（失去一條胳臂、突然死亡等，以環境而定）。
 
-<img style="width:50%;min-width:400px" src="/harrm-table.png" />
+<img style="width:50%;min-width:400px" src="/BitD/harrm-table.png" />
 
 ## 傷害範例
 

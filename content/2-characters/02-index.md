@@ -10,7 +10,7 @@ metaDescription:
 
 **這裡包括 xp 的觸發點。**在每次聚會結束時，如果你以某種方式應付挑戰，標記 xp：在這插入簡短的方法或行動列表。例如可以是：暴力、脅迫、知識、魅力、膽量、計算、欺騙、影響力、隱匿、逃避、技術技能、騷亂、追蹤或神秘學力量。
 
-<img style="width:40%;min-width:300px" src="/starting-action.png" />
+<img style="width:40%;min-width:300px" src="/BitD/starting-action.png" />
 
 # 起始構成
 

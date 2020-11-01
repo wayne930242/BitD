@@ -15,7 +15,7 @@ metaDescription: ""
 
 在幫派表的<span class="game-term">盯迫</span>追蹤軌上標注<span class="game-term">盯迫</span>等級。
 
-<img style="width:50%;min-width:200px;" src="/heat-track.gif" />
+<img style="width:50%;min-width:200px;" src="/BitD/heat-track.gif" />
 
 當你們的<span class="game-term">盯迫</span>等級達到 9，你們得到一個<span class="game-term">通緝等級</span>並清除你們的<span class="game-term">盯迫</span>（任何超額的<span class="game-term">盯迫</span>會「繼承」，所以如果你們的<span class="game-term">盯迫</span>是 7，而你們又取得 4 <span class="game-term">盯迫</span>，你們會重置到 2 <span class="game-term">盯迫</span>）。
 
@@ -52,7 +52,7 @@ metaDescription: ""
 
 # 監獄權利
 
-<img src="/claims-prison.gif" />
+<img src="/BitD/claims-prison.gif" />
 
 ## 結盟權利 Allied claim
 

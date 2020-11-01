@@ -8,9 +8,9 @@ metaDescription: ""
 
 在回報和<span class="game-term">盯迫</span>決定好以後，GM 使用下表來為幫派生成一次糾葛。找到符合幫派當前<span class="game-term">盯迫</span>等級的欄位。接著骰等同於他們的<span class="game-term">通緝等級</span>的骰子，用擲骰結果來選擇糾葛展現的種類。 _如果<span class="game-term">通緝等級</span>為零，擲兩顆骰並保留最低的那個。_
 
-<img src="/heat-table-1.png" style="width:30%;padding:1.5%;min-width:200px;" />
-<img src="/heat-table-2.png" style="width:30%;padding:1.5%;min-width:200px;" />
-<img src="/heat-table-3.png" style="width:30%;padding:1.5%;min-width:200px;" />
+<img src="/BitD/heat-table-1.png" style="width:30%;padding:1.5%;min-width:200px;" />
+<img src="/BitD/heat-table-2.png" style="width:30%;padding:1.5%;min-width:200px;" />
+<img src="/BitD/heat-table-3.png" style="width:30%;padding:1.5%;min-width:200px;" />
 
 將糾葛立刻放到場上，或是保留到合適的時機。譬如，如果你得到 _審問_ 糾葛，你可以等到一個 PC 沉溺於他們的惡習時，然後說在他因歡愉而分心時，員警逮到了他。
 

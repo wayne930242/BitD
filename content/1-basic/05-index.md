@@ -29,9 +29,9 @@ _「你一拳揍在他臉上，對吧？OK⋯⋯你想從這裡得到什麼？�
 
 # 3. GM 設置情勢
 
-一旦玩家選擇行動，GM 就為該擲骰設置**情勢**。情勢代表行動可以有多危險和麻煩。有三種情勢：**受控**、**險峻**和**絕望**。要選擇情勢，GM 看看後續的情勢敘述，並選擇最貼近眼前情況的那個。
+一旦玩家選擇行動，GM 就為該擲骰設置**情勢**。情勢代表行動可以有多危險和麻煩。有三種情勢：**穩妥**、**險峻**和**絕望**。要選擇情勢，GM 看看後續的情勢敘述，並選擇最貼近眼前情況的那個。
 
-**預設來說，行動擲骰是險峻的。**如果沒有包含任何風險，你不會擲骰。如果狀況看起來更危險，讓它變成絕望的。如果看起來更不危險，那就是受控的。
+**預設來說，行動擲骰是險峻的。**如果沒有包含任何風險，你不會擲骰。如果狀況看起來更危險，讓它變成絕望的。如果看起來更不危險，那就是穩妥的。
 
 # 4. GM 設置效果等級
 
@@ -93,26 +93,26 @@ _GM 對效果等級和情勢的選擇可以被玩家在行動評等的選擇大�
 > - 如果你有**協助**，**+1d**。
 > - 如果你**強推**-或-接受**魔鬼交易**，**+1d**。
 > 
-> **受控**——你以你的條件行動。你利用主導性的優勢。
+> **穩妥**——你以你的條件行動。你利用主導性的優勢。
 > 
 > * <span class="game-term">關鍵</span>：你以<strong>增幅效果</strong>做到了。
 > * <span class="game-term">6</span>：你做到了。
-> * <span class="game-term">4/5</span>：你遲疑了。撤銷並嘗試不同的進路，或是雖然做到了，但是帶有次要後果：一個<strong>輕微複雜狀況</strong>發生，<strong>削弱效果</strong>、遭受<strong>輕微傷害</strong>、你停在<strong>險峻情勢</strong>。
-> * <span class="game-term">1-3</span>：你動搖了。抓住<strong>險峻</strong>的機會繼續前進，或是撤銷並嘗試不同的進路。
+> * <span class="game-term">4/5</span>：你遲疑了。撤銷並嘗試不同的進路，或是你雖然做到了，但是帶有次要後果：一個<strong>輕微複雜狀況</strong>發生、<strong>減弱效果</strong>、遭受<strong>輕微傷害</strong>、你停在<strong>險峻情勢</strong>。
+> * <span class="game-term">1-3</span>：你動搖了。抓住<strong>險峻</strong>的機會繼續前進、或撤銷並嘗試不同的進路。
 > 
 > **險峻**——你們正面交鋒。你在槍林彈雨中行動。你要冒著風險。
 > 
 > * <span class="game-term">關鍵</span>：你以<strong>增幅效果</strong>做到了。
 > * <span class="game-term">6</span>：你做到了。
-> * <span class="game-term">4/5</span>：你做到了，但是帶有橫果：你遭受<strong>傷害</strong>，<strong>複雜狀況</strong>發生，你得到<strong>削弱效果</strong>、你停在<strong>絕望情勢</strong>。
-> * <span class="game-term">1-3</span>：事情變糟。你遭受<strong>傷害</strong>，<strong>複雜狀況</strong>發生，你停在<strong>絕望情勢</strong>，你<strong>失去這次機會</strong>。
+> * <span class="game-term">4/5</span>：你做到了，但是帶有後果：你遭受<strong>傷害</strong>、<strong>複雜狀況</strong>發生、你得到<strong>減弱效果</strong>、你停在<strong>絕望情勢</strong>。
+> * <span class="game-term">1-3</span>：事情變糟。你遭受<strong>傷害</strong>、<strong>複雜狀況</strong>發生、你停在<strong>絕望情勢</strong>、你<strong>失去這次機會</strong>。
 > 
 > **絕望**——超出了你的能力。你在嚴重的麻煩中。
 > 
 > * <span class="game-term">關鍵</span>：你以<strong>增幅效果</strong>做到了。
 > * <span class="game-term">6</span>：你做到了。
-> * <span class="game-term">4/5</span>：你做到了，但是帶有橫果：你遭受<strong>重大傷害</strong>，<strong>嚴重複雜狀況</strong>發生，你得到<strong>削弱效果</strong>。
-> * <span class="game-term">1-3</span>：最壞的結果。你遭受<strong>重大傷害</strong>，<strong>嚴重複雜狀況</strong>發生，你<strong>失去這次</strong>行動的<strong>機會</strong>。
+> * <span class="game-term">4/5</span>：你做到了，但是帶有後果：你遭受<strong>重大傷害</strong>、<strong>嚴重複雜狀況</strong>發生、你得到<strong>減弱效果</strong>。
+> * <span class="game-term">1-3</span>：最壞的結果。你遭受<strong>重大傷害</strong>、<strong>嚴重複雜狀況</strong>發生、你<strong>失去這次</strong>行動的<strong>機會</strong>。
 
 ---
 

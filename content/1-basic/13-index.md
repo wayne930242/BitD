@@ -42,7 +42,7 @@ metaDescription:
 
 地盤由你們的<span class="game-term">rep</span>軌所標記（見下面例子）。你們掌握的每片地盤地盤會讓發展時所需的<span class="game-term">rep</span>花費減少一。因此，如果你們有 2 地盤，你們在發展時只需要 10 <span class="game-term">rep</span>。如果你們有 4 地盤，你們在發展時只需要 8 <span class="game-term">rep</span>。**你最多可以握有 6 地盤。**當你們發展並且重置你們的<span class="game-term">rep</span>時，**你保留所有你握有的地盤的標記。**
 
-> <img style="width:40%;min-width:300px;padding:20px" src="/BitD/2020/08/28/BitD/turf.gif" />
+> <img style="width:40%;min-width:300px;padding:20px" src="/BitD/turf.gif" />
 > 
 > 如果你握有 3 片地盤，你只需要 9 **rep**來發展，而不是 12 。
 > 

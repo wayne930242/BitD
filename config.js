@@ -57,7 +57,7 @@ const config = {
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://wayneh.tw/BitD'>首頁</a>",
+      "中文 SRD",
   },
   siteMetadata: {
     title: '暗夜冷鋒 SRD',

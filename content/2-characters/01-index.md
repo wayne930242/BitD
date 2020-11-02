@@ -47,12 +47,12 @@ metaDescription:
 每個角色都被一些惡習所奴役，沉溺於它們來處理壓力。從列表中選擇一項惡習，在底線上描述特殊細節，以及**惡習供應者**的位置和名字。
 
 * <span class="game-term">信仰：</span>你獻身於未知的力量、被遺忘的神、先祖等。
-* <span class="game-term">賭博：</span>你渴望遊戲的機會、投注於體育賽事等。
+* <span class="game-term">好賭：</span>你渴望遊戲的機會、投注於體育賽事等。
 * <span class="game-term">奢華：</span>昂貴或浮誇的富麗展示。
 * <span class="game-term">義務：</span>你效力於一個家族、一個原因、一個組織、一個慈善機構等。
 * <span class="game-term">歡愉：</span>來自愛人、食物、酒精、毒品、藝術、戲劇等的滿足。
 * <span class="game-term">麻木：</span>你濫用藥物、飲酒過量、在競技場上被毆打等，你尋求遺忘。
-* <span class="game-term">怪異：</span>你以奇怪的精華進行實驗、與惡靈勾結、觀察詭異的儀式或禁忌等。
+* <span class="game-term">怪誕：</span>你以奇怪的精華進行實驗、與惡靈勾結、觀察詭異的儀式或禁忌等。
 
 # 紀錄你的名字、別名和長相
 
@@ -79,10 +79,10 @@ metaDescription:
 
 你可以取用在你的角色卡上的所有**道具**。在每次任務行動，決定你的角色的**裝載**是什麼。在行動任務期間，透過在格子上勾選你想要使用的道具，你可以說你的角色有那個道具在手——數量最多等同於你選擇的裝載。你的裝載也決定你的移動速度和顯眼程度：
 
-* <span class="game-term">1-3 裝載：</span>**輕。** _你快速、不顯眼；你混入一般市民。_
-* <span class="game-term">4/5 裝載：</span>**一般。** _你就像是個惡棍，準備惹事。_
-* <span class="game-term">6 裝載：</span>**重。** _你較緩慢。像是要進行一次任務行動。_
-* <span class="game-term">7-9 裝載：</span>**超重。** _你負擔沈重，除了緩慢移動以外什麼都做不了。_
+* <span class="game-term">1-3 裝載：</span><strong>輕。</strong> <em>你快速、不顯眼；你混入一般市民。</em>
+* <span class="game-term">4/5 裝載：</span><strong>一般。</strong> <em>你就像是個惡棍，準備惹事。</em>
+* <span class="game-term">6 裝載：</span><strong>重。</strong> <em>你較緩慢。像是要進行一次任務行動。</em>
+* <span class="game-term">7-9 裝載：</span><strong>超重。</strong> <em>你負擔沈重，除了緩慢移動以外什麼都做不了。</em>
 
 有些特殊能力（像是「利刃」的<span class="game-term">騾子</span>能力或「刺客」的「配備」）能夠增加裝載限度。
 

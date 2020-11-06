@@ -29,11 +29,11 @@ const config = {
 		  </li>`,
     links: [{ text: '贊助我', link: 'https://www.patreon.com/weihung'}],
     search: {
-      enabled: false,
+      enabled: true,
       indexName: 'blades-in-the-dark',
-      algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
-      algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
-      algoliaAdminKey: process.env.ALGOLIA_ADMIN_KEY,
+      algoliaAppId: 'L9FQNFYPS7',//process.env.GATSBY_ALGOLIA_APP_ID,
+      algoliaSearchKey: '3e731ec2b6969e38eeed9fe1880f68dd',//process.env.GATSBY_ALGOLIA_SEARCH_KEY,
+      algoliaAdminKey: 'e32311d98416fce80722756e2f1d82dc'//process.env.ALGOLIA_ADMIN_KEY,
     },
   },
   sidebar: {
@@ -43,13 +43,14 @@ const config = {
       '/3-crew',
       '/4-score',
       '/5-downtime',
+      '/6-resources'
     ],
     collapsedNav: [
       '/1-basic',
       '/2-characters',
       '/3-crew',
       '/4-score',
-      '/5-downtime',
+      '/5-downtime'
     ],
     links: [
       { text: '原文', link: 'http://bladesinthedark.com' },

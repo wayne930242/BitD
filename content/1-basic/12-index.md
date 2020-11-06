@@ -19,7 +19,7 @@ PC 們用在每日生活的那些小錢不用追蹤。如果角色想花錢來�
 * <span class="game-term">8 錢幣：</span>小型商業景氣不錯的一個月收入。一個裝滿錢幣和貴重物品的保險箱。一件非常罕見的奢侈品。
 * <span class="game-term">10 錢幣：</span>用來計算重要的資產——一輛馬車與山羊、一匹馬、小財產的一張契據。
 
-超過 4 <span class="game-term">錢幣</span> 就不適合放在身邊了。你必須將超過的花費掉，或是將它們放入你的 **私金**（見下方）。預設來說，幫派也可以在他們的巢穴積存 4 <span class="game-term">錢幣</span>。如果他們升級**保險箱**，他們可以將他們的積存擴充到 8 ，然後是 16 <span class="game-term">錢幣</span>。所有超過限度的<span class="game-term">錢幣</span>必須儘快花掉（通常在下一次案件以前）或是分配給幫派成員。
+超過 4 <span class="game-term">錢幣</span> 就不適合放在身邊了。你必須將超過的花費掉，或是將它們放入你的 **私金**（見下方）。預設來說，組織也可以在他們的巢穴積存 4 <span class="game-term">錢幣</span>。如果他們升級**保險箱**，他們可以將他們的積存擴充到 8 ，然後是 16 <span class="game-term">錢幣</span>。所有超過限度的<span class="game-term">錢幣</span>必須儘快花掉（通常在下一次案件以前）或是分配給組織成員。
 
 攜帶在身上時，一個單位的<span class="game-term">錢幣</span>，無論是銀幣或是其他散裝貨幣，都會佔據你**負載**的一個道具欄。
 
@@ -27,9 +27,9 @@ PC 們用在每日生活的那些小錢不用追蹤。如果角色想花錢來�
 
 * 花費 1 <span class="game-term">錢幣</span>來在**休整期**得到一次額外**行動**。
 * 花費 1 <span class="game-term">錢幣</span>來提升一次**休整活動**擲骰的成果等級。
-* 花費<span class="game-term">錢幣</span>來避免特定幫派的**糾葛**。
+* 花費<span class="game-term">錢幣</span>來避免特定組織的**糾葛**。
 * 將<span class="game-term">錢幣</span>放入你角色的**私金**來改善他的生活型態以及退休時的環境。見下節。
-* 提升你們的幫派**層級**時，需要花費 <span class="game-term">錢幣</span>。
+* 提升你們的組織**層級**時，需要花費 <span class="game-term">錢幣</span>。
 
 # 私金與退休
 
